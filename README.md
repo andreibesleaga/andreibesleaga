@@ -25,7 +25,7 @@ I'm a software developer specializing in distributed systems, AI integrations, p
 
 ### System Architecture & Infrastructure
 - **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - Visual programming language for deploying mesh grids of distributed AI agentic flows
-- **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJs backend template with multi-protocol and microservice patterns
+- **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS backend template with multi-protocol and microservice patterns
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - Climate Early Warning System architecture proposals
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** ⭐ 2 stars - Distributed mesh gateway for Common Alert Protocol translation
 
