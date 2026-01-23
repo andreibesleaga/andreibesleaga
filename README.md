@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-I'm a software engineer (developer/architect) specializing in web, backend, distributed systems, AI integrations and businesses solutions. My open-source work focuses on learning and developing system architectures and software (proof-of-concepts, MVPs) that bridge emerging technologies with practical applications, for a green, sustainable, better future of humanity.
+I'm a software engineer (developer/architect) specializing in web, backend, distributed systems, AI integrations, businesses solutions. Passionate about innovation and new technologies, maintaining backward compatibility and reliability, with focus on: creating tools, participating and implementing industry standards and protocols, adaptable architectures, AI-enhanced applications for real-world problems, my open-source work focuses on learning and developing proof-of-concepts, MVPs, architectures, that bridge emerging technologies with practical applications, for a green, sustainable, better future of humanity.
 
-I'm passionate about innovation and solutions with new technologies, maintaining backward compatibility and reliability, with focus on: creating developer-friendly tools, implementing and participating in industry standards and protocols, adaptable architectures for future technologies, AI-enhanced applications for real-world problems.
-  
+
 ## 🔧 Technical Focus
 
 - **AI Integration**: A2A (Agent-to-Agent) & MCP (Model Context Protocol) servers, AI-powered SDKs & other AI Systems
 - **EV Charging**: Automations for standards like OCPI, OSCP, OCHP, for Electric Vehicles charging systems
 - **Distributed Systems**: Designing mesh networks, gateways, and microservice architectures
 - **Healthcare Tech**: Medicine discovery and other healthcare tools
-- **Blockchain & Web3**: Simple Ethereum smart contracts applications for different systems usage
+- **Blockchain & Web3**: Simple applications for different systems usage (eg: auditing)
 - **Other**: Other learning repos, proof-of-concepts, or MVP projects, with different technologies
 
 ## 🚀 Featured Projects
