@@ -18,7 +18,7 @@ Open-source work focuses on learning and developing proof-of-concepts, MVPs, arc
 
 ## 🚀 Featured Projects
 
-### SDKs & APIs - Integrated Tools
+### APIs Integrated Tools
 - **[camara-sdk](https://github.com/andreibesleaga/camara-sdk)** - CAMARA Telecom Network APIs SDK based on Telco Full OpenAPI Specs (with Live Demo)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - Medicine Brand Finder (with AI-enhanced search APIs and RxNorm data and Live Demo)
 - **[NaturalLanguageAPIBackends](https://github.com/andreibesleaga/NaturalLanguageAPIBackends)** - AI-powered natural language queries for GraphQL, REST APIs, and SQL databases
