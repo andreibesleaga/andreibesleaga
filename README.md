@@ -12,7 +12,7 @@ I'm passionate about innovation and solutions with new technologies, maintaining
 - **Distributed Systems**: Designing mesh networks, gateways, and microservice architectures
 - **Healthcare Tech**: Medicine discovery and other healthcare tools
 - **Blockchain & Web3**: Simple Ethereum smart contracts applications for different systems usage
-- **Other**: Other learning repos, proof-of-concepts, or MVP projects
+- **Other**: Other learning repos, proof-of-concepts, or MVP projects, with different technologies
 
 ## 🚀 Featured Projects
 
