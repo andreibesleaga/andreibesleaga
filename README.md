@@ -6,8 +6,7 @@ I'm passionate about innovation and solutions with new technologies, maintaining
   
 ## 🔧 Technical Focus
 
-- **AI Protocol Integration**: A2A (Agent-to-Agent) & MCP (Model Context Protocol) servers and AI-powered SDKs
-- **AI Systems**: In progress, learning, planned tools, as AI chatbot, AI framework, and Agentic AI implementations
+- **AI Integration**: A2A (Agent-to-Agent) & MCP (Model Context Protocol) servers, AI-powered SDKs & other AI Systems
 - **EV Charging**: Automations for standards like OCPI, OSCP, OCHP, for Electric Vehicles charging systems
 - **Distributed Systems**: Designing mesh networks, gateways, and microservice architectures
 - **Healthcare Tech**: Medicine discovery and other healthcare tools
