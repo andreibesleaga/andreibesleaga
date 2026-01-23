@@ -4,7 +4,7 @@ I'm a software engineer (developer/architect) specializing in web, backend, dist
 
 I'm passionate about innovation and solutions with new technologies, maintaining backward compatibility and reliability, with focus on: creating developer-friendly tools, implementing and participating in industry standards and protocols, adaptable architectures for future technologies, AI-enhanced applications for real-world problems.
   
-## 🔧 Open-source Projects Focus
+## 🔧 Technical Focus
 
 - **AI Protocol Integration**: A2A (Agent-to-Agent) & MCP (Model Context Protocol) servers and AI-powered SDKs
 - **AI Systems**: In progress, learning, planned tools, as AI chatbot, AI framework, and Agentic AI implementations
