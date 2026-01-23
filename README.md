@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software engineer (developer/architect) specializing in web, backend, distributed systems, AI integrations, development, implementations, and businesses solutions. My open-source work focuses on learning and developing system architectures and software (proof-of-concepts, MVPs) that bridge emerging technologies with practical applications, for a green, sustainable, better future of humanity.
+I'm a software engineer (developer/architect) specializing in web, backend, distributed systems, AI integrations and businesses solutions. My open-source work focuses on learning and developing system architectures and software (proof-of-concepts, MVPs) that bridge emerging technologies with practical applications, for a green, sustainable, better future of humanity.
 
 I'm passionate about innovation and solutions with new technologies, maintaining backward compatibility and reliability, with focus on: creating developer-friendly tools, implementing and participating in industry standards and protocols, adaptable architectures for future technologies, AI-enhanced applications for real-world problems.
   
