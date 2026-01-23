@@ -16,16 +16,16 @@ I'm passionate about innovation and solutions with new technologies, maintaining
 
 ## 🚀 Featured Projects
 
+### SDKs & APIs - Integrated Tools
+- **[camara-sdk](https://github.com/andreibesleaga/camara-sdk)** - CAMARA Telecom Network APIs SDK based on Telco Full OpenAPI Specs (with Live Demo)
+- **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - Medicine Brand Finder (with AI-enhanced search APIs and RxNorm data and Live Demo)
+- **[NaturalLanguageAPIBackends](https://github.com/andreibesleaga/NaturalLanguageAPIBackends)** - AI-powered natural language queries for GraphQL, REST APIs, and SQL databases
+
 ### Automated SDKs & AI MCP Implementations
 - **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk)** - NodeJs OCM SDK & AI MCP Server for EV Charging (Open Charge Map API with Live Demo)
 - **[oscp-sdk](https://github.com/andreibesleaga/oscp-sdk)** - NodeJs OSCP SDK & AI MCP Server for Open Smart Charging Protocol
 - **[ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - NodeJs OCPI SDK & AI MCP Server for Open Charge Point Interface
 - **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - PHP implementation of the AI Agent-to-Agent Protocol
-
-### SDKs, APIs, Integrated Tools
-- **[camara-sdk](https://github.com/andreibesleaga/camara-sdk)** - CAMARA Telecom Network APIs SDK based on Telco Full OpenAPI Specs (with Live Demo)
-- **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - Medicine Brand Finder (with AI-enhanced search APIs and RxNorm data and Live Demo)
-- **[NaturalLanguageAPIBackends](https://github.com/andreibesleaga/NaturalLanguageAPIBackends)** - AI-powered natural language queries for GraphQL, REST APIs, and SQL databases
 
 ### Systems Architecture & Infrastructure
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - Climate Early Warning System architecture proposals (with multiple subprojects)
