@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-A software engineer (developer/architect) specializing in web, backend, distributed systems, automations, AI integrations, businesses solutions.
+A software engineer (developer/architect) specializing in web, backend, systems, AI integrations, businesses solutions.
 
-Passionate about innovation, new technologies, maintaining backward compatibility and reliability, with focus on: creating tools, participating and implementing industry standards and protocols, adaptable architectures, AI-enhanced apps for real-world problems.
+Passionate about innovation, new tech, maintaining backward compatibility & reliability, with focus on: standards and protocols, creating tools, adaptable architectures, AI-enhanced apps for real-world problems.
 
-Open-source work focuses on learning and developing proof-of-concepts, MVPs, architectures, examples and experiments that bridge emerging technologies with practical applications, for a sustainable, better future of humanity.
+Open-source work focuses on learning, developing proof-of-concepts, MVPs, architectures, examples, experiments, that bridge emerging technologies with practical applications, for a sustainable, better future of humanity.
 
 
 ## 🔧 Technical Focus
 
-- **AI Integration**: A2A (Agent-to-Agent) & MCP (Model Context Protocol) servers, AI-powered SDKs & other AI Systems
+- **AI Integration**: A2A (Agent-to-Agent) & MCP (Model Context Protocol), AI-powered SDKs & other AI Systems
 - **EV Charging**: Automations for standards like OCPI, OSCP, OCHP, for Electric Vehicles charging systems
-- **Distributed Systems**: Designing mesh networks, gateways, and microservice architectures
+- **Distributed Systems**: Designing mesh networks, gateways, microservice architectures and code
 - **Healthcare Tech**: Medicine discovery and other healthcare tools
 - **Blockchain & Web3**: Simple applications for different systems usage (eg: auditing)
 - **Other**: Other learning repos, proof-of-concepts, or MVP projects, with different technologies
