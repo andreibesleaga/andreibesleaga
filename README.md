@@ -35,7 +35,7 @@ Open-source work focuses on learning, developing proof-of-concepts, MVPs, archit
 
 ### Other Data & Integration Tools
 - **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** - **JSON-TOON AI Gateway**
-- **[universal-sql-vmm](https://github.com/andreibesleaga/universal-sql-vmm)** - SQL Virtual Machine Microservice Gateway with multi-DB adapter support
+- **[universal-sql-vmm](https://github.com/andreibesleaga/universal-sql-vmm)** - SQL Microservice Gateway with multi-DB adapter support
 - **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - Ethereum blockchain remote events audit logger (with custom ERC20 currency)
 
 ---
