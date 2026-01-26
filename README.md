@@ -19,24 +19,24 @@ Open-source work focuses on learning, developing proof-of-concepts, MVPs, archit
 ## 🚀 Featured Projects
 
 ### APIs Integrated Tools
-- **[camara-sdk](https://github.com/andreibesleaga/camara-sdk)** - CAMARA Telecom Network APIs SDK based on Telco Full OpenAPI Specs (with Live Demo)
-- **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - Medicine Brand Finder (with AI-enhanced search APIs and RxNorm data and Live Demo)
+- **[camara-sdk](https://github.com/andreibesleaga/camara-sdk)** - **CAMARA Telecom Network APIs** SDK based on Telco Full OpenAPI Specs (with Live Demo)
+- **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (with AI-enhanced search APIs and RxNorm data and Live Demo)
 - **[NaturalLanguageAPIBackends](https://github.com/andreibesleaga/NaturalLanguageAPIBackends)** - AI-powered natural language queries for GraphQL, REST APIs, and SQL databases
 
 ### Automated SDKs & AI MCP Implementations
-- **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - OCM,OSCP,OCPI SDKs & AI MCP Servers for EV Charging, Node.js/PHP (OCM with Live Demo)
-- **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - PHP implementation of the AI Agent-to-Agent Protocol
+- **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - OCM,OSCP,OCPI SDKs & AI MCP Servers for EV Charging, Node.js/PHP (**OCM with Live Demo**)
+- **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - PHP implementation of the **AI Agent-to-Agent Protocol**
 
 ### Systems Architecture & Infrastructure
-- **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - Climate Early Warning System architecture proposals (with multiple subprojects)
-- **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - Distributed mesh gateway for "Common Alert Protocol" automated translations
-- **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - Visual programming language for mesh grids of distributed AI agentic flows
-- **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS backend template with multi-protocol and microservice patterns
+- **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** architecture proposals (with multiple subprojects)
+- **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - Distributed mesh gateway for **"Common Alert Protocol"** automated translations
+- **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - Visual Programming Language for Mesh Grids of Distributed AI Agentic flows
+- **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend template** with multi-protocol and microservice patterns
 
 ### Other Data & Integration Tools
-- **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** - JSON-TOON AI Gateway
+- **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** - **JSON-TOON AI Gateway**
 - **[universal-sql-vmm](https://github.com/andreibesleaga/universal-sql-vmm)** - SQL Virtual Machine Microservice Gateway with multi-DB adapter support
-- **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - Ethereum blockchain remote events logger with custom ERC20 currency
+- **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - Ethereum blockchain remote events audit logger (with custom ERC20 currency)
 
 ---
 
