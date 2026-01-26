@@ -24,9 +24,7 @@ Open-source work focuses on learning, developing proof-of-concepts, MVPs, archit
 - **[NaturalLanguageAPIBackends](https://github.com/andreibesleaga/NaturalLanguageAPIBackends)** - AI-powered natural language queries for GraphQL, REST APIs, and SQL databases
 
 ### Automated SDKs & AI MCP Implementations
-- **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk)** - NodeJs OCM SDK & AI MCP Server for EV Charging (Open Charge Map API with Live Demo)
-- **[oscp-sdk](https://github.com/andreibesleaga/oscp-sdk)** - NodeJs OSCP SDK & AI MCP Server for Open Smart Charging Protocol
-- **[ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - NodeJs OCPI SDK & AI MCP Server for Open Charge Point Interface
+- **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - OCM, OSCP, OCPI, SDKs & AI MCP Servers for EV Charging - Node.js/PHP (OCM - Open Charge Map API with Live Demo)
 - **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - PHP implementation of the AI Agent-to-Agent Protocol
 
 ### Systems Architecture & Infrastructure
