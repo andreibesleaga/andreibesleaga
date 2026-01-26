@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A software engineer (developer/architect) specializing in web, backend, distributed systems, AI integrations, businesses solutions.
+A software engineer (developer/architect) specializing in web, backend, distributed systems, automations, AI integrations, businesses solutions.
 
 Passionate about innovation, new technologies, maintaining backward compatibility and reliability, with focus on: creating tools, participating and implementing industry standards and protocols, adaptable architectures, AI-enhanced apps for real-world problems.
 
