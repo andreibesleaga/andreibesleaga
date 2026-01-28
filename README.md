@@ -21,7 +21,7 @@ Open-source work focuses on learning, developing proof-of-concepts, MVPs, archit
 ### API Integrated Tools & Apps
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (based on CAMARA Telco Full OpenAPI Specs)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced Demo App, with search APIs, RxNorm data)
-- **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API Integration Demo** (EV Charging Stations)
+- **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (EV Charging Stations)
 
 ### Automated SDKs & AI MCP Implementations
 - **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - OCM,OSCP,OCPI SDKs & AI MCP Servers for EV Charging, Node.js/PHP
