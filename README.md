@@ -29,7 +29,7 @@ Open-source work focuses on learning, developing proof-of-concepts, MVPs, archit
 
 ### Systems Architecture & Infrastructure
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** architecture proposals (with subprojects)
-- **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - Distributed mesh gateway for **"Common Alert Protocol"** automated translations
+- **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - Distributed mesh proxy for **"Common Alert Protocol"** automated translations
 - **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - Visual Programming Language for Mesh Grids of Distributed AI Agentic flows
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend template** with multi-protocol and microservice patterns
 
