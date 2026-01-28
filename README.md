@@ -2,7 +2,7 @@
 
 A software engineer (developer/architect) specializing in web, backend, systems, AI integrations, businesses solutions, product design.
 
-Passionate about innovation, new tech, maintaining backward compatibility & reliability, with focus on: standards and protocols, creating tools, adaptable architectures, AI-enhanced apps for real-world problems.
+Passionate about innovation, new tech, maintaining backward compatibility & reliability, with focus on: systems, standards and protocols, creating tools, adaptable architectures, AI-enhanced apps for real-world problems.
 
 Open-source work focuses on learning, developing proof-of-concepts, MVPs, architectures, examples, experiments, that bridge emerging technologies with practical applications, for a sustainable, better future of humanity.
 
