@@ -24,17 +24,17 @@ Open-source work focuses on learning, developing proof-of-concepts, MVPs, archit
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicles Charging Stations on Maps via AI MCP APIs)
 
 ### Systems Architecture, Infrastructure & AI Integrations
-- **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product & architecture proposals (demo subprojects as: BigQueryAI Decision Brain)
+- **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product, architecture proposals (demoprojects as: BigQueryAI Decision Brain)
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - Distributed mesh proxy for **"Common Alert Protocol"** automated translations
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend development template** - multi-protocol and microservice patterns
 - **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - Architecture specs for a visual development language for integrated grids of distributed AI agentic workflows
 
 ### Automated SDKs & AI/A2A/MCP Implementations
-- **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - OCM,OSCP,OCPI SDKs & AI MCP Servers for EV Charging, Node.js/PHP (world's first AI integrated EV protocols SDKs)
+- **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - OCM,OSCP,OCPI SDKs & AI MCPs for EV Charging, Node.js/PHP (world's first AI EV protocols SDKs)
 - **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - world's first PHP implementation of the **AI Agent-to-Agent Protocol**
 
 ### Other Data & Integration Tools
-- **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** - **JSON-TOON AI Gateway** - Sample proxy for **on-the-fly format transformations** to be included in other systems transparently
+- **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** - **JSON-TOON AI Gateway** - Sample proxy for **on-the-fly format transformations** to include in other systems transparently
 - **[NaturalLanguageAPIBackends](https://github.com/andreibesleaga/NaturalLanguageAPIBackends)** - **AI-powered Natural Language Queries** for: SQL, REST APIs, GraphQL, backends
 - **[universal-sql-vmm](https://github.com/andreibesleaga/universal-sql-vmm)** - **SQL Microservice Gateway** with multi-DB adapter and protocols support
 - **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain remote events audit logger** (custom ERC20 LOGC currency)
