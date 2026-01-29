@@ -25,7 +25,7 @@ Open-source work for learning and developing proof-of-concepts, MVPs, architectu
 
 ### Systems Architecture, Infrastructure, AI Integrations
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (demo: **BigQueryAI Decision Brain**)
-- **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - Automated translations distributed proxy for **"Common Alert Protocol"**  
+- **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **"Common Alert Protocol"** automated translations distributed proxy
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend development template** - multi-protocol and microservice patterns
 - **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - Architecture specs for a visual development language for integrated grids of distributed AI agentic workflows
 
