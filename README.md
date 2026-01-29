@@ -18,13 +18,13 @@ Open-source work focuses on learning, developing proof-of-concepts, MVPs, archit
 
 ## 🚀 Featured Projects
 
-### API Tools & Apps
+### Apps (EWS, Health, EVs - AI, APIs, SDKs, integrations demos)
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (based on CAMARA Telco OpenAPI & unification project)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced Demo App, with search APIs, RxNorm data, international medicines)
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicles Charging Stations on Maps via AI MCP APIs)
 
-### Systems Architecture, Infrastructure & AI Integrations
-- **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (demoprojects as: **BigQueryAI Decision Brain**)
+### Systems Architecture, Infrastructure, AI Integrations
+- **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (demo subprojects: **BigQueryAI Decision Brain**)
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - Distributed mesh proxy for **"Common Alert Protocol"** automated translations
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend development template** - multi-protocol and microservice patterns
 - **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - Architecture specs for a visual development language for integrated grids of distributed AI agentic workflows
