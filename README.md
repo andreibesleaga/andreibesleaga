@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-A software engineer (developer/architect) specializing in web, backend, systems, AI integrations, businesses solutions, product design.
+A software engineer (developer/architect) specializing in web, backend, systems, AI integrations, business solutions, product design.
 
-Passionate about innovation, maintaining backward compatibility & reliability, focusing on: systems, protocols, creating tools, architectures and AI-enhanced apps for real-world problems.
+Passionate about innovation, maintaining backward compatibility & reliability, focusing on: systems, protocols, creating tools, architectures, AI-enhanced apps for real-world problems.
 
-Open-source work for learning and developing proof-of-concepts, MVPs, architectures, examples, experiments, that bridge emerging tech with practical applications, for a better future of humanity.
+Open-source work for learning and developing proof-of-concepts, MVPs, architecture examples, experiments, that bridge emerging tech with practical applications, for a better future of humanity.
 
 
 ## 🔧 Technical Focus
