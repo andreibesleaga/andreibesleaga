@@ -13,7 +13,7 @@ Open-source work for learning and developing proof-of-concepts, MVPs, architectu
 - **Distributed Systems**: Designing mesh networks, gateways/proxies, architectures and code
 - **EV Charging**: Automations for standards like OCPI, OSCP, OCHP, for Electric Vehicles Charging Systems
 - **Healthcare Tech**: Medicine Discovery and other Healthcare Tools
-- **Blockchain Web3**: Simple distributed blockchain apps for different usages (eg:auditlogs)
+- **Blockchain**: Simple distributed blockchain apps for different usages (eg:auditlogs)
 - **Other**: Other learning repos, proof-of-concepts, MVP projects, experiments with different technologies
 
 ## 🚀 Featured Projects
