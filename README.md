@@ -34,7 +34,7 @@ Open-source work focuses on learning, developing proof-of-concepts, MVPs, archit
 - **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - world's first PHP implementation of the **AI Agent-to-Agent Protocol**
 
 ### Other Data & Integration Tools
-- **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** - **JSON-TOON Gateway** - Sample proxy for **on-the-fly format transformations** for other systems
+- **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** - **JSON-TOON Gateway** - Sample proxy for **on-the-fly data format transformations** for other systems
 - **[NaturalLanguageAPIBackends](https://github.com/andreibesleaga/NaturalLanguageAPIBackends)** - **AI-powered Natural Language Queries** for SQL, REST APIs, GraphQL, backends
 - **[universal-sql-vmm](https://github.com/andreibesleaga/universal-sql-vmm)** - **SQL Microservice Gateway** with multiple DB adapters and protocols support
 - **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain remote events audit logger** (custom ERC20 LOGC currency)
