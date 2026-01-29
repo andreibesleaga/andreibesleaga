@@ -13,18 +13,18 @@ Open-source work for learning and developing proof-of-concepts, MVPs, architectu
 - **Distributed Systems**: Designing mesh networks, gateways/proxies, architectures and code
 - **EV Charging**: Automations for standards like OCPI, OSCP, OCHP, for Electric Vehicles Charging Systems
 - **Healthcare Tech**: Medicine Discovery and other Healthcare Tools
-- **Blockchain Web3**: Simple distributed ledgers blockchain apps for different usages (eg: auditlogs)
+- **Blockchain Web3**: Simple distributed blockchain apps for different usages (eg:auditlogs)
 - **Other**: Other learning repos, proof-of-concepts, MVP projects, experiments with different technologies
 
 ## 🚀 Featured Projects
 
 ### Apps (EWS, Health, EVs - AI, APIs, SDKs, integrations demos)
-- **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (based on CAMARA Telco OpenAPI & unification project)
+- **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (CAMARA Telco OpenAPI & unification project)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced Demo App, with search APIs, RxNorm data, international medicines)
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicles Charging Stations on Maps via AI MCP APIs)
 
 ### Systems Architecture, Infrastructure, AI Integrations
-- **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (demo subprojects: **BigQueryAI Decision Brain**)
+- **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (demo: **BigQueryAI Decision Brain**)
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - Distributed mesh proxy for **"Common Alert Protocol"** automated translations
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend development template** - multi-protocol and microservice patterns
 - **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - Architecture specs for a visual development language for integrated grids of distributed AI agentic workflows
