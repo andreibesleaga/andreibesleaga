@@ -14,7 +14,7 @@ Open-source work for learning and developing proof-of-concepts, MVPs, architectu
 - **EV Charging**: Automations for standards like OCPI, OSCP, OCHP, for Electric Vehicles Charging Systems
 - **Healthcare Tech**: Medicine Discovery and other Healthcare Tools
 - **Blockchain**: Simple distributed blockchain apps for different usages (eg:auditlogs)
-- **Other**: Other learning repos, proof-of-concepts, MVP projects, experiments with different technologies
+- **Other**: Other learning repos, proof-of-concepts, MVP projects, experiments with different technologies (PHP, Node.js, SQL, others)
 
 ## 🚀 Featured Projects
 
