@@ -11,7 +11,7 @@ Open-source work for learning and developing proof-of-concepts, MVPs, architectu
 
 - **AI Integrations**: A2A (Agent-to-Agent) & MCP (Model Context Protocol), AI SDKs, Systems
 - **Distributed Systems**: Architecture mesh networks, gateways/proxies, code
-- **EV Charging**: Automations protocols for OCPI, OSCP, OCHP - Electric Vehicles Charging Systems
+- **EV Charging**: Automations for OCPI, OSCP, OCHP (Electric Vehicles Charging Systems)
 - **Healthcare Tech**: Medicine Discovery and other Healthcare Tools
 - **Blockchain**: Simple ledger blockchain apps for different usages (eg:auditlogs)
 - **Other**: learning repos, proof-of-concepts, MVP projects, experiments with different technologies and languages
