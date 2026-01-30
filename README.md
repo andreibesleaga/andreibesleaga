@@ -9,7 +9,7 @@ Open-source work for learning and developing proof-of-concepts, MVPs, architectu
 
 ## 🔧 Technical Focus
 
-- **AI Integrations**: A2A (Agent-to-Agent) & MCP (Model Context Protocol), AI SDKs & Systems
+- **AI Integrations**: A2A (Agent-to-Agent) & MCP (Model Context Protocol), AI SDKs, Systems
 - **Distributed Systems**: Designing mesh networks, gateways/proxies, architectures and code
 - **EV Charging**: Automations for standards like OCPI, OSCP, OCHP, for Electric Vehicles Charging Systems
 - **Healthcare Tech**: Medicine Discovery and other Healthcare Tools
