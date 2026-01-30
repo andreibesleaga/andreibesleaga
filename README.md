@@ -18,7 +18,7 @@ Open-source work for learning and developing proof-of-concepts, MVPs, architectu
 
 ## 🚀 Featured Projects
 
-### Apps (EWS, Health, EVs - AI, APIs, SDKs, integrations demos)
+### Apps (EWS, Health, EVs, AI, APIs, SDKs, Integrations Demos)
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (CAMARA Telco OpenAPI unification project)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced Demo App, with search APIs, RxNorm data, international medicines)
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicles Charging Stations on Maps via AI MCP APIs)
