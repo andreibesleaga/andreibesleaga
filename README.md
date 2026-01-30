@@ -9,11 +9,11 @@ Open-source work for learning and developing proof-of-concepts, MVPs, architectu
 
 ## 🔧 Technical Focus
 
-- **AI Integrations**: A2A (Agent-to-Agent) & MCP (Model Context Protocol), AI-powered SDKs & other AI Systems
+- **AI Integrations**: A2A (Agent-to-Agent) & MCP (Model Context Protocol), AI SDKs & AI Systems
 - **Distributed Systems**: Designing mesh networks, gateways/proxies, architectures and code
 - **EV Charging**: Automations for standards like OCPI, OSCP, OCHP, for Electric Vehicles Charging Systems
 - **Healthcare Tech**: Medicine Discovery and other Healthcare Tools
-- **Blockchain**: Simple distributed blockchain apps for different usages (eg:auditlogs)
+- **Blockchain**: Simple ledger blockchain apps for different usages (eg:auditlogs)
 - **Other**: learning repos, proof-of-concepts, MVP projects, experiments with different technologies and languages
 
 ## 🚀 Featured Projects
