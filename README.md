@@ -24,6 +24,7 @@ Open-source work for learning and developing proof-of-concepts, MVPs, architectu
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicles Charging Stations on Maps via AI MCP APIs)
 
 ### Systems Architecture, Infrastructure, AI Integrations
+- **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - Localized GenieAI platform, optimized for development on limited consumer hardware, implementing an AI trainable chatbot with full RAG pipeline using OPEA, ArangoDB, vLLM, backend & UI.
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (demo: **BigQueryAI Decision Brain**)
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **"Common Alert Protocol"** automated translations distributed proxy
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend development template** - multi-protocol and microservice patterns
