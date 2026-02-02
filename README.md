@@ -39,5 +39,6 @@ Open-source work for learning and developing proof-of-concepts, MVPs, architectu
 - **[NaturalLanguageAPIBackends](https://github.com/andreibesleaga/NaturalLanguageAPIBackends)** - **AI-powered Natural Language Queries** for SQL, REST APIs, GraphQL, backends
 - **[universal-sql-vmm](https://github.com/andreibesleaga/universal-sql-vmm)** - **SQL Microservice Gateway** with multiple DB adapters and protocols support
 - **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain remote events audit logger** (custom ERC20 LOGC currency)
+- **[Historical](https://github.com/andreibesleaga/old-projects)** - Historical pre-GitHub era **innovative experiments & contributions**
 
 ---
