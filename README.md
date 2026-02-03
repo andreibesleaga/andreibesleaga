@@ -2,33 +2,33 @@
 
 A software engineer (developer/architect) specializing in web, backend, systems, apps, AI integrations, business solutions, product design.
 
-Passionate about innovation, creativity, keeping backward compatibility, reliability, focusing on: systems, architecture, protocols, standards, tools, AI-enhanced apps for real-world problems.
+Passionate about innovation, creativity, backward compatibility, reliability, focusing on: systems, architecture, protocols, standards, tools, AI-enhanced apps for real-world problems.
 
-Open-source work for learning and developing proof-of-concepts, MVPs, architecture examples, experiments, bridging emerging tech with practical solutions for a better humanity future.
+Open-source work for learning and developing proof-of-concepts, MVPs, architectures, experiments, bridging emerging tech with practical solutions for a better humanity future.
 
 
 ## 🔧 Technical Focus
 
-- **AI Integrations**: A2A (Agent-to-Agent) & MCP (Model Context Protocol), AI SDKs, Systems
+- **AI Integrations**: A2A (Agent-to-Agent), MCP (Model Context Protocol), AI SDKs, Agents, Systems
 - **Distributed Systems**: Architecture mesh networks, gateways/proxies, code
 - **EV Charging**: Automations for OCPI, OSCP, OCPP (Electric Vehicles Charging Systems)
-- **Healthcare Tech**: Medicine Discovery and other Healthcare Tools
-- **Blockchain**: Simple ledger blockchain apps for different usages (eg:auditlogs)
-- **Other**: learning, proof-of-concepts, MVPs, experiments, different tech & languages
+- **Healthcare Tech**: Medicine Discovery and other healthcare tools
+- **Blockchain**: Simple ledger apps for different usages (eg:auditlogs)
+- **Other**: learnings, POCs, MVPs, experiments, different tech & languages
 
 ## 🚀 Featured Projects
 
-### Demo Apps (EWS, Health, EVs, AI, APIs, SDKs, etc)
+### Apps (EWS, Health, EVs, AI, APIs, SDKs, etc)
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (CAMARA Telco OpenAPI unification project)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced Demo App, with search APIs, RxNorm data, international medicines)
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicles Charging Stations on Maps via AI MCP APIs)
 
 ### Systems Architecture, Infrastructure, AI Integrations
-- **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - **AI trainable chatbot, full RAG pipeline using OPEA, ArangoDB, vLLM** (Genie.AI platform backend & UI, localized and optimized for development on limited consumer hardware)
-- **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (demo: **BigQueryAI Decision Brain**)
+- **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - **AI trainable chatbot, RAG pipeline using OPEA, ArangoDB, vLLM** (Genie.AI platform backend & UI, localized and optimized for development on limited consumer hardware)
+- **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain**)
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **"Common Alert Protocol"** automated translations distributed proxy
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend development template** - multi-protocol and microservice patterns
-- **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - Architecture specs for a visual development language for integrated grids of distributed AI agentic workflows
+- **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - Architecture specs for a visual development language for integrated grids of distributed AI agents
 
 ### Automated SDKs & AI/A2A/MCP Implementations
 - **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - OCM,OSCP,OCPI SDKs & AI MCPs for EV Charging, Node.js/PHP (world's first AI EV protocols SDKs)
@@ -37,7 +37,7 @@ Open-source work for learning and developing proof-of-concepts, MVPs, architectu
 ### Other Data & Integration Tools
 - **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** - **JSON-TOON Gateway** - Sample proxy for **on-the-fly data format transformations** for other systems
 - **[NaturalLanguageAPIBackends](https://github.com/andreibesleaga/NaturalLanguageAPIBackends)** - **AI-powered Natural Language Queries** for SQL, REST APIs, GraphQL, backends
-- **[universal-sql-vmm](https://github.com/andreibesleaga/universal-sql-vmm)** - **SQL Microservice Gateway** with multiple DB adapters and protocols support
+- **[universal-sql-vmm](https://github.com/andreibesleaga/universal-sql-vmm)** - **SQL Microservice Gateway** with multi DB adapters and protocols support
 - **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain remote events audit logger** (custom ERC20 LOGC currency)
 - **[Historical](https://github.com/andreibesleaga/old-projects)** - pre-GitHub era **innovative experiments & contributions**
 
