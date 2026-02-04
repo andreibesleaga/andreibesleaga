@@ -18,13 +18,13 @@ Open-source work for learning and developing proof-of-concepts, MVPs, architectu
 
 ## 🚀 Featured Projects
 
-### Apps (EWS, Health, EVs, AI, APIs, SDKs, etc)
+### Apps, Demos (EWS, Health, EVs, AI, APIs, SDKs, etc)
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (CAMARA Telco OpenAPI unification project)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced Demo App, with search APIs, RxNorm data, international medicines)
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicles Charging Stations on Maps via AI MCP APIs)
 
 ### Systems Architecture, Infrastructure, AI Integrations
-- **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - **AI trainable chatbot, RAG pipeline using OPEA, ArangoDB, vLLM** (Genie.AI platform backend & UI, localized and optimized for development on limited consumer hardware)
+- **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - **AI trainable chatbot, RAG pipeline using OPEA, ArangoDB, vLLM** (GENIE.AI platform backend/UI, complete system, localized and optimized for development on limited consumer hardware)
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain**)
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **"Common Alert Protocol"** automated translations distributed proxy
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend development template** - multi-protocol and microservice patterns
