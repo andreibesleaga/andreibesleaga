@@ -24,7 +24,7 @@ Open-source contributions, learning and developing proof-of-concepts, MVPs, arch
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicles Charging Stations on Maps via AI MCP APIs)
 
 ### Systems Architecture, Infrastructure, AI Integrations
-- **[DirectQL](https://github.com/andreibesleaga/DirectQL)** - **DirectQL** local & deployable **AI platform for GraphQL APIs (GitHub) & SQL**, for devs & users
+- **[DirectQL](https://github.com/andreibesleaga/DirectQL)** - **DirectQL** local, deployable, **Interactive AI Data platform for GraphQL APIs (GitHub) & SQL**, for devs & users
 - **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - **AI trainable chatbot, RAG pipeline using OPEA, ArangoDB, vLLM** (GENIE.AI platform backend/UI, complete system, localized and optimized for development on limited consumer hardware)
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain**)
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **"Common Alert Protocol"** automated translations distributed proxy
@@ -41,5 +41,9 @@ Open-source contributions, learning and developing proof-of-concepts, MVPs, arch
 - **[universal-sql-vmm](https://github.com/andreibesleaga/universal-sql-vmm)** - **SQL Microservice Gateway** with multi DB adapters and protocols support
 - **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain remote events audit logger** (custom ERC20 LOGC currency)
 - **[Historical](https://github.com/andreibesleaga/old-projects)** - pre-GitHub era **innovative experiments & contributions**
+
+### Other Informational Projects
+- **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech))** - **Awesome Blockchain & Greentech** - List of Distributed Ledger Technologies, Blockchain, for GreenTech, with examples of Sustainable Environmental Innovative Projects and Proposals
+- **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Awesome Electric Vehicle** - Contributions to a curated list of EV-related tools and resources
 
 ---
