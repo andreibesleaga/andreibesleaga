@@ -42,7 +42,7 @@ Open-source contributions, learning and developing proof-of-concepts, MVPs, arch
 - **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain remote events audit logger** (custom ERC20 LOGC currency)
 - **[Historical](https://github.com/andreibesleaga/old-projects)** - pre-GitHub era **innovative experiments & contributions**
 
-### Other Informational Projects
+### Other Informational, Innovative Projects
 - **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain & Greentech** - List of Distributed Ledger Technologies, Blockchain, for GreenTech, with examples of Sustainable Environmental Innovative Projects and Proposals
 - **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Electric Vehicle Charging** - Contributions to a curated list of EV-related tools and resources
 
