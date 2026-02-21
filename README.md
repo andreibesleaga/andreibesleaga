@@ -2,19 +2,18 @@
 
 A software engineer (developer/architect) specializing in web, backend, systems, apps, AI integrations, product design, business solutions.
 
-Passionate about innovation, creativity, backward compatibility, reliability, focusing on: systems, architecture, protocols, standards, tools, AI-enhanced apps for real-world problems.
+Passionate about: innovation, creativity, compatibility, reliability, systems, architecture, protocols, standards, tools, AI-enhanced apps for real-world problems.
 
-Open-source contributions, learning and developing proof-of-concepts, MVPs, architectures, experiments, bridging emerging tech and solutions for a better humanity future.
+Open-source contributions, learning, developing proof-of-concepts, MVPs, architectures, experiments, bridging emerging tech, reseearch, different stacks and solutions, for a better humanity future.
 
 
 ## 🔧 Technical Focus
 
-- **AI Integrations**: A2A protocol (Agent-to-Agent), MCP server (Model Context Protocol), AI SDKs, Agents, Systems
-- **Distributed Systems**: Architecture mesh networks, gateways/proxies, code
+- **Integrations**: AI, A2A protocol (Agent-to-Agent), MCP server (Model Context Protocol), AI Agents, SDKs, Systems
+- **Distributed Systems**: Architectures with mesh networks, gateways/proxies, agentic, microservices
 - **EV Charging**: Automations for OCPI, OSCP, OCPP (Electric Vehicles Charging Systems)
 - **Healthcare Tech**: Medicine Discovery and other healthcare tools
 - **Blockchain**: Simple ledger apps for different usages (eg:auditlogs)
-- **Other**: learnings, POCs, MVPs, experiments, informational, research, different tech & languages
 
 ## 🚀 Featured Projects
 
