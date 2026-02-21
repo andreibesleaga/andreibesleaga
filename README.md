@@ -19,7 +19,7 @@ Open-source contributions, learning and developing proof-of-concepts, MVPs, arch
 ## 🚀 Featured Projects
 
 ### Apps, Demos (EWS, Health, EVs, AI, APIs, SDKs, etc)
-- **[GABBE](https://github.com/andreibesleaga/GABBE)** - **Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit** (development, for all languages, agents, platforms, with Loki Teams & Experimental Cognitive Brain, based on Software Engineering & Architecture Best Practices)
+- **[GABBE](https://github.com/andreibesleaga/GABBE)** - **Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit** (development, for all languages, agents, platforms, with Teams & Experimental Cognitive Brain, based on Software Engineering & Architecture Best Practices)
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (CAMARA Telco OpenAPI unification project)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced Demo App, with search APIs, RxNorm data, international medicines)
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicles Charging Stations on Maps via AI MCP APIs)
