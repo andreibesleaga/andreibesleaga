@@ -12,7 +12,7 @@ Open-source contributions, learning, proof-of-concepts, MVPs, architectures, exp
 - **Integrations**: SDKs, Systems, AI, A2A protocol (Agent-to-Agent), MCP server (Model Context Protocol), AI Agents
 - **Distributed Systems**: Architectures with mesh networks, gateways/proxies, agentic, microservices
 - **EV Charging**: Automations for OCPI, OSCP, OCPP (Electric Vehicles Charging Systems)
-- **Healthcare Tech**: Medicine Discovery and other healthcare tools
+- **Healthcare Tech**: Medicine discovery and other healthcare tools
 - **Blockchain**: Simple ledger apps for different usages (eg:auditlogs)
 
 ## 🚀 Featured Projects
