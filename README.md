@@ -21,7 +21,7 @@ Open-source contributions, learning, proof-of-concepts, MVPs, architectures, exp
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (CAMARA Telco OpenAPI unification project)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced Demo App, with search APIs, RxNorm data, international medicines)
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicles Charging Stations on Maps via AI MCP APIs)
-- **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Agentic AI Medical Imagery Diagnostic Helper** - local command line tool made with [GABBE](https://github.com/andreibesleaga/GABBE), to analyze series of imaging analysis and produce result diagnostics, forecasting, options suggestions
+- **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** - local command line tool made with [GABBE](https://github.com/andreibesleaga/GABBE), to analyze series of imaging analysis and produce result diagnostics, forecasting, options suggestions
 
 ### Systems Architecture, Infrastructure, AI Integrations
 - **[GABBE](https://github.com/andreibesleaga/GABBE)** - **Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit** (development, for all languages, agents, platforms, with Teams & Experimental Cognitive Brain, based on Software Engineering & Architecture Best Practices)
