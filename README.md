@@ -2,9 +2,9 @@
 
 A software engineer (developer/architect) specializing in web, backend, systems, apps, AI integrations, product design, business solutions.
 
-Passionate about: innovation, creativity, compatibility, reliability, systems, architecture, protocols, standards, tools, AI-enhanced apps for real-world problems.
+Passionate about: innovation, creativity, compatibility, reliability, systems, architecture, protocols, tools, AI-enhanced apps for real-world problems.
 
-Open-source contributions, learning, proof-of-concepts, MVPs, architectures, experiments, bridging emerging tech, research, different stacks and solutions, for a better humanity future.
+Open-source contributions, learning, proof-of-concepts, MVPs, architectures, experiments, bridging emerging tech, research, different stacks solutions, for a better humanity future.
 
 
 ## 🔧 Technical Focus
@@ -19,18 +19,18 @@ Open-source contributions, learning, proof-of-concepts, MVPs, architectures, exp
 
 ### Apps, Demos (EWS, Health, EVs, AI, APIs, SDKs, etc)
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (CAMARA Telco OpenAPI unification project)
-- **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced Demo App, with search APIs, RxNorm data, international medicines)
+- **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced Demo App, with search APIs, RxNorm data, international medicine)
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicles Charging Stations on Maps via AI MCP APIs)
-- **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** - local command line tool made with [GABBE](https://github.com/andreibesleaga/GABBE), to analyze series of imaging analysis and produce result diagnostics, forecasting, options suggestions
+- **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** - local command line tool made with [GABBE](https://github.com/andreibesleaga/GABBE), to analyze series of imaging and produce analysis results diagnostics, forecasting, treatment suggestions
 
 ### Systems Architecture, Infrastructure, AI Integrations
 - **[GABBE](https://github.com/andreibesleaga/GABBE)** - **Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit** (development, for all languages, agents, platforms, with Teams & Experimental Cognitive Brain, based on Software Engineering & Architecture Best Practices)
-- **[DirectQL](https://github.com/andreibesleaga/DirectQL)** - **DirectQL** local, deployable, **Interactive AI Data platform for GraphQL APIs (GitHub) & SQL**, for devs & users
+- **[DirectQL](https://github.com/andreibesleaga/DirectQL)** - **DirectQL** local, deployable, **Interactive AI Data platform for GraphQL APIs (GitHub) & SQL**, for devs, data professional, and other end-users
 - **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - **AI trainable chatbot, RAG pipeline using OPEA, ArangoDB, vLLM** (GENIE.AI platform backend/UI, complete system, localized and optimized for development on limited consumer hardware)
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain**)
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **"Common Alert Protocol"** automated translations distributed proxy
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend development template** - multi-protocol and microservice patterns
-- **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - Architecture specs for a visual development language for integrated grids of distributed AI agents
+- **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - Architecture specs for a visual development language of integrated grids with distributed AI agents
 
 ### Automated SDKs & AI/A2A/MCP Implementations
 - **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - OCM,OSCP,OCPI SDKs & AI MCPs for EV Charging, Node.js/PHP (world's first AI EV protocols SDKs)
@@ -43,10 +43,10 @@ Open-source contributions, learning, proof-of-concepts, MVPs, architectures, exp
 - **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain remote events audit logger** (custom ERC20 LOGC currency)
 - **[Historical](https://github.com/andreibesleaga/old-projects)** - pre-GitHub era **innovative experiments & contributions**
 
-### Other Informational, Innovative Projects
+### Other Informational Resources, Innovative Projects
 - **[awesome-agentic-ai-js](https://github.com/andreibesleaga/awesome-agentic-ai-js)** - **Awesome Agentic AI JS/TS** -  List of Agentic AI frameworks, libraries, standards, and resources specifically for JavaScript and TypeScript developers
 - **[awesome-ai-php](https://github.com/andreibesleaga/awesome-ai-php)** - **Awesome AI & Agentic AI with PHP** - List of libraries, SDKs, frameworks, software for Artificial Intelligence, LLMs, Machine Learning, Agentic AI and resources specifically for PHP developers
-- **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - List of Distributed Ledger Technologies, Blockchain, for GreenTech, with examples of Sustainable Environmental Innovative Projects and Proposals
+- **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - List of Distributed Ledger Technologies & Blockchain for GreenTech, with examples of my Sustainable Environmental Innovative Projects Proposals
 - **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Electric Vehicle Charging** - Contributions to a curated list of EV-related tools and resources
 
 ---
