@@ -2,9 +2,9 @@
 
 A software engineer (developer/architect) specializing in web, backend, systems, apps, AI integrations, product design, business solutions.
 
-Passionate about: innovation, creativity, compatibility, reliability, systems, architecture, protocols, tools, AI-enhanced apps for real-world problems.
+Passionate of: innovation, creativity, compatibility, reliability, systems, architecture, protocols, tools, AI-enhanced apps, for real-world problems.
 
-Open-source contributions, learning, proof-of-concepts, MVPs, architectures, experiments, bridging emerging tech, research, different stacks solutions, for a better humanity future.
+Open-source contributions, learning, MVPs, proof-of-concepts, architectures, experiments, bridging emerging tech, research, different stacks, for a better future.
 
 
 ## 🔧 Technical Focus
