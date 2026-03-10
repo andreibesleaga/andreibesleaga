@@ -4,7 +4,7 @@ A software engineer (developer/architect) specializing in web, backend, systems,
 
 Passionate of: innovation, creativity, compatibility, reliability, systems, architecture, protocols, tools, AI-enhanced apps, for real-world problems.
 
-Open-source contributions, learning, MVPs, proof-of-concepts, architectures, experiments, bridging emerging tech, research, different stacks, for a better future.
+Open-source contributions, learnings, MVPs, proof-of-concepts, architectures, experiments, emerging tech, research, different stacks, for a better future.
 
 
 ## 🔧 Technical Focus
