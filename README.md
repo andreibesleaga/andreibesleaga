@@ -28,6 +28,7 @@ Open-source contributions, learnings, MVPs, proof-of-concepts, architectures des
 - **[GABBE](https://github.com/andreibesleaga/GABBE)** - **Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit** (development, for all languages, agents, platforms, with Teams & Cognitive Brain, based on Software Engineering & Architecture Best Practices)
 - **[DirectQL](https://github.com/andreibesleaga/DirectQL)** - **DirectQL** local & deployable **Interactive AI Data platform for GraphQL APIs (GitHub) & SQL**, for devs, data professional, and other end-users
 - **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - **AI trainable chatbot, RAG pipeline using OPEA, ArangoDB, vLLM** (GENIE.AI platform backend/UI, complete system, localized and optimized for development on limited consumer hardware)
+
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain**)
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **"Common Alert Protocol"** automated translations distributed proxy
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend development template** - multi-protocol and microservice patterns
