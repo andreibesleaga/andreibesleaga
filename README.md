@@ -45,10 +45,10 @@ Open-source contributions, learnings, MVPs, proof-of-concepts, architectures des
 - **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain remote events audit logger** (custom ERC20 currency LOGC)
 
 ### Other Informational Resources, Innovative Projects
-- **[awesome-agentic-ai-js](https://github.com/andreibesleaga/awesome-agentic-ai-js)** - **Awesome Agentic AI JS/TS** -  List of Agentic AI frameworks, libraries, standards, and resources, specifically for JavaScript and TypeScript developers
-- **[awesome-ai-php](https://github.com/andreibesleaga/awesome-ai-php)** - **Awesome AI & Agentic AI with PHP** - List of libraries, SDKs, frameworks, software for Artificial Intelligence, LLMs, Machine Learning, Agentic AI and resources, specifically for PHP developers
-- **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - List of Distributed Ledger Technologies & Blockchain for GreenTech, with examples of my Sustainable Environmental Innovative Projects Proposals
+- **[awesome-agentic-ai-js](https://github.com/andreibesleaga/awesome-agentic-ai-js)** - **Awesome Agentic AI JS/TS** -  List of **Agentic AI** frameworks, libraries, standards, and resources, specifically for **JavaScript and TypeScript** developers
+- **[awesome-ai-php](https://github.com/andreibesleaga/awesome-ai-php)** - **Awesome AI & Agentic AI with PHP** - List of libraries, SDKs, frameworks, software for **Artificial Intelligence, LLMs, Machine Learning, Agentic AI** and resources, specifically for **PHP** developers
+- **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - List of **Distributed Ledger Technologies & Blockchain for GreenTech**, with examples of **My Sustainable Environmental Innovative Projects Proposals and Specs**
 - **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Electric Vehicle Charging** - Contributions to a curated list of EV-related tools and resources
-- **[Historical](https://github.com/andreibesleaga/old-projects)** - pre-GitHub era **old innovative experiments & contributions**
+- **[Historical](https://github.com/andreibesleaga/old-projects)** - pre-GitHub era, **old innovative experiments & contributions**
 
 ---
