@@ -32,7 +32,7 @@ Open-source contributions, learnings, MVPs, proof-of-concepts, architectures des
 - **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - Visual development IDE architecture spec for distributed grids with AI agents & existing connectors
 
 ### GreenTech, Sustainability, Electric Vehicles
-- **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability` well-known URI** Draft proposal
+- **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability` well-known URI** RFC Draft Proposal
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain**)
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **Common Alert Protocol** automated translations distributed proxy
 - **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - Automated OCM,OSCP,OCPI, SDKs & AI MCPs, for EV CPMS, Node.js/PHP (world's first AI EV protocols SDKs)
