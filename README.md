@@ -20,7 +20,7 @@ Open-source contributions, learning, proof-of-concepts, architectures design, ex
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (OpenAPI unification project)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced Demo for international medicines, search APIs, RxNorm data)
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicles Charging Stations via AI MCP APIs)
-- **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** - local tool, made with [GABBE](https://github.com/andreibesleaga/GABBE), to analyze series of imaging and output analysis results diagnostics, forecasting, treatment suggestions
+- **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** - local tool, made with [GABBE](https://github.com/andreibesleaga/GABBE), to analyze series of imaging and output analysis results diagnostics, forecasting, treatment
 
 ### Systems Architecture, Infrastructure, AI Integrations
 - **[Kaiban Distributed](https://github.com/andreibesleaga/kaiban-distributed)** - **Distributed Agentic AI Platform for Enterprise** - Actor Model Kanban Framework Implementation with Enterprise Messaging Layer State (Redis/Kafka) and individual deployed AI nodes (TypeScript/NodeJS)
