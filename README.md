@@ -10,7 +10,7 @@ Open-source contributions, learning, proof-of-concepts, architectures design, ex
 ## 🔧 Technical Focus
 
 - **Integrations**: SDKs, Protocols, AI, A2A (Agent-to-Agent Protocol), MCP (Model Context Protocol), AI Agents
-- **Systems**: Distributed architectures, mesh, gateways/proxies, ledgers, modular monoliths, microservices, Agentic AI
+- **Systems**: Distributed architectures, mesh, gateways/proxies, ledgers/blockchains, modular monoliths, microservices, Agentic AI
 - **EV Charging**: Automations/SDKs/Tools for OCPI, OSCP, OCPP (Electric Vehicles Charging Systems & Protocols)
 - **Healthcare**: Healthcare and Pharma tools
 
