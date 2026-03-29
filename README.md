@@ -13,7 +13,6 @@ Open-source contributions, learnings, MVPs, proof-of-concepts, architectures des
 - **Systems**: Distributed architectures, mesh, gateways/proxies, modular monoliths, microservices, Agentic AI
 - **EV Charging**: Automations/SDKs/Tools for OCPI, OSCP, OCPP (Electric Vehicles Charging Systems & Protocols)
 - **Healthcare**: Healthcare and Pharma tools
-- **Blockchain**: Simple ledger apps for different usages (eg:auditlogs)
 
 ## 🚀 Featured Projects
 
