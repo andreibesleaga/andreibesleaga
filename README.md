@@ -4,7 +4,7 @@ A software engineer (developer/architect) specializing in web, backend, systems,
 
 Passionate of innovation, compatibility, reliability, greentech, architecture, design, protocols, sustainability, AI-enhanced apps, for a better future and real-world problems.
 
-Open-source contributions, learning, proof-of-concepts, architectures design, experiments, emerging tech, frameworks, research.
+Open-source contributions, learning, proof-of-concepts, humanitarian, architectures design, experiments, emerging tech, frameworks, research.
 
 
 ## 🔧 Technical Focus
@@ -34,6 +34,7 @@ Open-source contributions, learning, proof-of-concepts, architectures design, ex
 - **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability` well-known URI**, RFC Draft Proposal
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain**)
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **Common Alert Protocol** automated translations distributed proxy
+- **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - Curated list of **Distributed Ledger Technologies for GreenTech**, with examples of my work-in-progress **Sustainable Environmental Innovative Projects Proposals and Specs**
 - **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - Automated OCM,OSCP,OCPI,SDKs & AI MCPs, for EV CPMS, Node.js/PHP (world first AI EV SDKs)
 
 ### Other Data & Systems Integration Tools
@@ -43,11 +44,10 @@ Open-source contributions, learning, proof-of-concepts, architectures design, ex
 - **[universal-sql-vmm](https://github.com/andreibesleaga/universal-sql-vmm)** - **SQL Microservice Gateway** with multi DB adapters and protocols
 - **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain remote events audit logger** (custom ERC20 currency LOGC)
 
-### Other Informational Resources, Innovative Projects
+### Other Informational Resources, Projects
 - **[awesome-agentic-ai-js](https://github.com/andreibesleaga/awesome-agentic-ai-js)** - **Awesome Agentic AI JS/TS** -  List of **Agentic AI** frameworks, libraries, standards, and resources, specifically for **JavaScript and TypeScript** developers
 - **[awesome-ai-php](https://github.com/andreibesleaga/awesome-ai-php)** - **Awesome AI & Agentic AI with PHP** - List of libraries, SDKs, frameworks, software for **Artificial Intelligence, LLMs, Machine Learning, Agentic AI** and resources, specifically for **PHP** developers
-- **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - List of **Distributed Ledger Technologies & Blockchain for GreenTech**, with examples of my **Sustainable Environmental Innovative Projects Proposals and Specs**
 - **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Electric Vehicle Charging** - Contributions to curated list of EV-related resources
 - **[Historical](https://github.com/andreibesleaga/old-projects)** - pre-GitHub era, **old innovative experiments & contributions**
-
+- **Code 4 Romania Official Websites** contributions during COVID crisis period (people helping) - [Ce ma fac](https://github.com/andreibesleaga/ce-ma-fac), [Who's Who](https://github.com/andreibesleaga/whos-who), [Taskforce React Components](https://github.com/andreibesleaga/taskforce-fe-components), [Stiri Oficiale](https://github.com/andreibesleaga/stiri-oficiale)
 ---
