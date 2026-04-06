@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A Software Engineer (developer/architect) specializing in: Web, Backend, Architecture, Systems, AI integrations, Product Design, Business Solutions.
+A Software Engineer specializing in: Web, Backend, Architecture, Systems, AI integrations, Product Design, Business Solutions.
 
 Passionate of: innovation, compatibility, greentech, architecture, systems, design, protocols, sustainability, AI-enhanced apps, for a better future and real-world problems.
 
