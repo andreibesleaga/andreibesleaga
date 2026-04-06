@@ -11,7 +11,7 @@ Open-source: contributions, learning, proof-of-concepts, humanitarian, architect
 
 - **Integrations**: SDKs, APIs, Protocols, Standards, AI, A2A, MCP, AI Agents, Developer Tools.
 - **Systems**: Distributed architectures, mesh, gateways/proxies, ledgers/blockchains, modular monoliths, microservices, Agentic AI.
-- **Healthcare/Pharma, Sustainability/GreenTech**: MVPs/tools/libs/apps/automations for: Health, Pharma, Electric Vehicles Charging Systems.
+- **Healthcare,Pharma,Sustainability,GreenTech**: MVPs,tools,libs,automations for: Health, Pharma, Electric Vehicles Charging Systems.
 
 
 ## 🚀 Featured Projects
