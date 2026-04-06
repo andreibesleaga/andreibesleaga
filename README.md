@@ -2,7 +2,7 @@
 
 A Software Engineer specializing in: Web, Backend, Architecture, Systems, AI integrations, Product Design, Business Solutions.
 
-Passionate of: innovation, compatibility, greentech, architecture, systems, design, protocols, sustainability, emerging tech, AI-enhanced apps, for a better future and real-world problems.
+Passionate of: innovation, compatibility, architecture, systems, design, protocols, sustainability, greentech, emerging tech, AI-enhanced apps, for a better future and real-world problems.
 
 Open-source: contributions, humanitarian, learning, proof-of-concepts, architectures/specs/designs, frameworks, research, experiments.
 
