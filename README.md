@@ -2,7 +2,7 @@
 
 A Software Engineer & Architect specializing in: Web, Backend, Architecture, Systems, AI integrations, Product Design, Business Solutions.
 
-**Projects & Open-Source** - examples, contributions, humanitarian, learning, proof-of-concepts, architectures/specs/designs, frameworks, research, experiments, innovation, backward compatibility, architecture, systems, design, protocols, sustainability, greentech, emerging tech, AI-enhanced apps - for a better future & real-world problems.
+Projects & Open-Source - examples, contributions, humanitarian, learning, proof-of-concepts, architectures/specs/designs, frameworks, research, experiments, innovation, backward compatibility, architecture, systems, design, protocols, sustainability, greentech, emerging tech, AI-enhanced apps - for a better future & real-world problems.
 
 ## 🔧 Technical/Domain Focus
 
