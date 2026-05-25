@@ -6,9 +6,9 @@ Projects & Open-Source - examples, contributions, humanitarian, learning, proof-
 
 ## 🔧 Technical/Domain Focus
 
-- **Integrations**: SDKs, APIs, Protocols, Standards, AI, A2A, MCP, AI Agents, Developer & Enterprise Tools.
-- **Systems**: Distributed architectures, mesh, gateways/proxies, ledgers/blockchain, monolith, microservices, Agentic AI.
-- **Healthcare, GreenTech**: MVPs/tools/libs/automations: Health, Pharma, Telecom, Electric Vehicles Charging Systems, etc.
+- Integrations: SDKs, APIs, Protocols, Standards, AI, A2A, MCP, AI Agents, Developer & Enterprise Tools.
+- Systems: Distributed architectures, mesh, gateways/proxies, ledgers/blockchain, monolith, microservices, Agentic AI.
+- Healthcare, GreenTech: MVPs/tools/libs/automations: Health, Pharma, Telecom, Electric Vehicles Charging Systems, etc.
 
 
 ## 🚀 Featured Projects
