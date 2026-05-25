@@ -25,6 +25,7 @@ Open-Source Projects - examples, contributions, learning, proof-of-concepts, pro
 - **[DirectQL](https://github.com/andreibesleaga/DirectQL)** - **DirectQL** local/deployable **Interactive AI Data platform for GraphQL APIs (GitHub) & SQL** - for devs, data professionals, and other end-users
 - **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - **AI trainable chatbot, RAG, using OPEA, ArangoDB, vLLM** (GENIE.AI platform backend/UI system, localized & optimized for development on limited consumer hardware)
 - **[awesome-agentic-ai-js](https://github.com/andreibesleaga/awesome-agentic-ai-js)** - **Awesome Agentic AI JS/TS** - Curated list of **Agentic AI** frameworks, libraries, standards, and resources, specifically for **JavaScript/TypeScript** developers
+- **[awesome-ai-php](https://github.com/andreibesleaga/awesome-ai-php)** - **Awesome AI & Agentic AI with PHP** - Curated list of libraries, SDKs, frameworks, software for Artificial Intelligence, LLMs, Machine Learning, Agentic AI, and resources, specifically for **PHP** developers
 
 ### GreenTech, Sustainability, Electric Vehicles
 - **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability` well-known URI**, Internet RFC Draft Proposal
@@ -33,7 +34,7 @@ Open-Source Projects - examples, contributions, learning, proof-of-concepts, pro
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain Implementation**)
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **Common Alert Protocol** automated translations distributed proxy
 
-### Other Systems, Libs, Tools
+### Other Systems, Libs, Specs, Tools
 - **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** - **JSON-TOON Gateway** - sample proxy microservice for **on-the-fly data format transformations**
 - **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - world's first PHP implementation of **A2A AI Agent-to-Agent Protocol** (v0.3)
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend template framework** - multi-protocol and microservice patterns
@@ -43,8 +44,7 @@ Open-Source Projects - examples, contributions, learning, proof-of-concepts, pro
 - **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - **Visual Dev IDE platform** arch specs for distributed agentic AI and classical systems
 
 ### Other Projects
-- **[awesome-ai-php](https://github.com/andreibesleaga/awesome-ai-php)** - **Awesome AI & Agentic AI with PHP** - Curated list of libraries, SDKs, frameworks, software for **Artificial Intelligence, LLMs, Machine Learning, Agentic AI** and resources, specifically for **PHP** developers
-- **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Electric Vehicle Charging** - Contributions to a list of EV-related resources
-- **[Historical](https://github.com/andreibesleaga/old-projects)** - pre-GitHub era, **old innovative experiments & contributions**
+- **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Electric Vehicle Charging** - Contributions to EV-related resources
+- **[Historical](https://github.com/andreibesleaga/old-projects)** - pre-GitHub era - **old innovative experiments & contributions**
 - **Code 4 Romania Official Websites** - contributions during COVID crisis period: [Ce ma fac](https://github.com/andreibesleaga/ce-ma-fac), [Who's Who](https://github.com/andreibesleaga/whos-who), [Taskforce React Components](https://github.com/andreibesleaga/taskforce-fe-components), [Stiri Oficiale](https://github.com/andreibesleaga/stiri-oficiale)
 ---
