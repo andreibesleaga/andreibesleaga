@@ -16,7 +16,7 @@ Projects & Open-Source - examples, contributions, humanitarian, learning, proof-
 ### Demos
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (APIs unification project)
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicle Charging Stations via AI MCP APIs)
-- **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced demo for international medicine, search APIs, RxNorm)
+- **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced frontend demo for international medicine, search APIs, RxNorm)
 - **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** - local tool, with [GABBE](https://github.com/andreibesleaga/GABBE), to analyze series of imaging and output analysis results diagnostics, forecasting, treatment
 
 ### AI Systems & Integrations
