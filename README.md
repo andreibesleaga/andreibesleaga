@@ -4,7 +4,7 @@ A Software Architect, Engineer, Inventor, specializing in: Web, Backend, Archite
 
 Open-Source - projects, examples, contributions, learning, proof-of-concepts, product/architecture/specs/design, systems, frameworks, research, experiments, innovation, compatibility, protocols, sustainability, greentech, emerging tech, educational, AI-enhanced apps, humanitarian - for a better future & real-world problems.
 
-Creator of **Kaiban Distributed, GABBE, IETF Draft for Sustainability Reporting, Energy-Grid Balancing EV Charging with HITL Invention**, and others.
+Creator of *Kaiban Distributed, GABBE, IETF Draft for Sustainability Reporting, Energy-Grid Balancing EV Charging with HITL Invention*, etc.
 
 ## 🔧 Technical/Domain Focus
 
