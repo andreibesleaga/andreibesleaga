@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-A Software Engineer, Architect, Inventor, specializing in: Web, Backend, Architecture, Systems, AI, Product Design, Business Solutions.
+A Software Architect, Engineer, Inventor, specializing in: Web, Backend, Architecture, Systems, AI, Product Design, Business Solutions.
 
-Open-Source Projects - examples, contributions, learning, proof-of-concepts, product/architectures/specs/design, frameworks, research, experiments, innovation, backward compatibility, architecture, systems, protocols, sustainability, greentech, emerging tech, educational, AI-enhanced apps, humanitarian - for a better future & real-world problems.
+Open-Source - projects, examples, contributions, learning, proof-of-concepts, product/architecture/specs/design, systems, frameworks, research, experiments, innovation, compatibility, protocols, sustainability, greentech, emerging tech, educational, AI-enhanced apps, humanitarian - for a better future & real-world problems.
 
 ## 🔧 Technical/Domain Focus
 
@@ -15,12 +15,12 @@ Open-Source Projects - examples, contributions, learning, proof-of-concepts, pro
 
 ### Demos
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (APIs unification project & demo frontend)
-- **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicle Charging Stations via AI MCP APIs)
+- **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicle Charging Stations via MCP APIs)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced frontend demo for international medicine, search APIs, RxNorm)
 - **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** (Local tool made with [GABBE](https://github.com/andreibesleaga/GABBE), for medical imaging analysis and diagnostics, forecasting, treatment suggestions)
 
 ### AI Systems & Integrations
-- **[Kaiban Distributed](https://github.com/andreibesleaga/kaiban-distributed)** - **Distributed Agentic AI Platform** - world's first Distributed Actor Model Kanban Framework implementation, with Enterprise Messaging Layer State (Redis/Kafka/others), and individual deployed AI agents (TypeScript/NodeJS ecosystem)
+- **[Kaiban Distributed](https://github.com/andreibesleaga/kaiban-distributed)** - **Distributed Agentic AI Platform** - world's first Distributed Actor Model Kanban Multi-Agent-System framework implementation, with Enterprise Messaging Layer State (Redis/Kafka/others), and individual deployed AI agents (TypeScript/NodeJS ecosystem)
 - **[GABBE](https://github.com/andreibesleaga/GABBE)** - **Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit** (dev kit for all languages, coding agents, platforms, with neuro-cognitive patterns and skills, based on Software Engineering SDLC & Architecture Best Practices)
 - **[DirectQL](https://github.com/andreibesleaga/DirectQL)** - **DirectQL** local/deployable **Interactive AI Data platform for GraphQL APIs (GitHub) & SQL** - for devs, data professionals, and other end-users
 - **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - **AI trainable chatbot, RAG, using OPEA, ArangoDB, vLLM** (GENIE.AI platform backend/UI system, localized & optimized for development on limited consumer hardware)
@@ -29,7 +29,7 @@ Open-Source Projects - examples, contributions, learning, proof-of-concepts, pro
 
 ### GreenTech, Sustainability, Electric Vehicles
 - **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability` well-known URI**, Internet RFC Draft Proposal
-- **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - Curated list of **Distributed Ledger Technologies for GreenTech**, with examples of my projects: **Sustainable Environmental Innovative Proposals and Specs**  
+- **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - Curated list of **Distributed Ledger Technologies for GreenTech**, with examples of my *Sustainability-First Consensus* green-tech projects: **Environmental Innovative Proposals and Specs** 
 - **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - Automated OCM,OSCP,OCPI,SDKs & AI MCPs, for EV CPMS, Node.js/PHP (world first AI EV SDKs)
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain Implementation**)
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **Common Alert Protocol** automated translations distributed proxy
