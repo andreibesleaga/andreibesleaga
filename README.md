@@ -32,7 +32,7 @@ Creator of *Kaiban Distributed, GABBE, IETF Draft for Sustainability Reporting, 
 
 ### GreenTech, Sustainability, Electric Vehicles
 - **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability` well-known URI**, Internet RFC Draft Proposal
-- **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - Curated list of **Distributed Ledger Technologies for GreenTech**, with examples of my *Sustainability-First Consensus* green-tech projects: [**Environmental Innovative Proposals and Specs**](https://github.com/andreibesleaga/awesome-blockchain-greentech/blob/main/Innovative%20Projects/README.md) 
+- **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - Curated list of **Distributed Ledger Technologies for GreenTech**, with examples of **Sustainability-First Consensus** green-tech projects - [Environmental Innovative Proposals](https://github.com/andreibesleaga/awesome-blockchain-greentech/blob/main/Innovative%20Projects/README.md) 
 - **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - Automated OCM,OSCP,OCPI,SDKs & AI MCPs, for EV CPMS, Node.js/PHP (world first AI EV SDKs)
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain Implementation**)
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **Common Alert Protocol** automated translations distributed proxy
