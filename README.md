@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A Software Architect, Engineer, Inventor, specializing in: Web, Backend, Architecture, Systems, AI, Product Design, Business Solutions.
+A Software Architect, Engineer, Inventor, Author, specializing in: Web, Backend, Architecture, Systems, AI, Product Design, Business Solutions.
 
 Open-source projects, contributions, examples, proof-of-concepts, product/architecture/specs/design, systems, frameworks, research, experiments, innovation, compatibility, protocols, sustainability, greentech, emerging, educational, humanitarian, AI-enhanced apps.
 
