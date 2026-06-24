@@ -45,6 +45,8 @@ Creator of **Kaiban-Distributed, "Energy-Grid Balancing with EV Charging" Invent
 - **[universal-sql-vmm](https://github.com/andreibesleaga/universal-sql-vmm)** - **SQL Microservice Gateway** with multi DB adapters and protocols
 - **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain events audit logger** with custom ERC20 currency: LOGC
 - **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - **Visual Dev IDE platform** arch specs for distributed agentic AI and classical systems
+- **[ocm-api-docs](https://andreibesleaga.github.io/ocm-api-reference/)** - Public API Reference for the OCM (Open Charge Map) API, published as a static site to GitHub Pages
+- **[camara-api-docs](https://andreibesleaga.github.io/camara-api-reference/)** - Public API Reference for the CAMARA Unified API, published as a static site to GitHub Pages
 
 ### Other Projects
 - **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Electric Vehicle Charging** - Contributions to EV-related resources
