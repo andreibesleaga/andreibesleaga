@@ -20,8 +20,8 @@ Creator of **Kaiban-Distributed, "Energy-Grid Balancing with EV Charging" Invent
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (APIs unification project & demo frontend)
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicle Charging Stations via MCP APIs)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced frontend demo for international medicine, search APIs, RxNorm)
-- **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** (Local tool made with [GABBE](https://github.com/andreibesleaga/GABBE), for medical imaging analysis and diagnostics, forecasting, treatment suggestions)
 - **[kaiban-distributed-examples](https://github.com/andreibesleaga/kaiban-distributed-examples)** - **Kaiban Distributed Multi-Agent Systems**
+- **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** (Local tool made with [GABBE](https://github.com/andreibesleaga/GABBE), for medical imaging analysis and diagnostics, forecasting, treatment suggestions)
 
 ### AI Systems & Integrations
 - **[Kaiban Distributed](https://github.com/andreibesleaga/kaiban-distributed)** - **Distributed Agentic AI Platform** - world's first visual distributed Actor-Model Kanban Multi-Agent-System framework implementation, with Enterprise Messaging Layer State (Redis/Kafka/others), and individual deployed AI agents (TypeScript/NodeJS ecosystem)
