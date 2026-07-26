@@ -32,7 +32,7 @@ Creator of **Kaiban-Distributed, "Energy-Grid Balancing with EV Charging" Invent
 - **[awesome-ai-php](https://github.com/andreibesleaga/awesome-ai-php)** - **Awesome AI & Agentic AI with PHP** - Curated list of libraries, SDKs, frameworks, software for Artificial Intelligence, LLMs, Machine Learning, Agentic AI, and resources, specifically for **PHP** developers
 
 ### GreenTech, Sustainability, Electric Vehicles
-- **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability` well-known URI**, Internet RFC Draft Proposal
+- **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability-data` well-known URI**, Internet Draft Proposal
 - **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - Curated list of **Distributed Ledger Technologies for GreenTech** - with examples of **Sustainability-First Consensus** projects - [Environmental Innovative Systems Proposals](https://github.com/andreibesleaga/awesome-blockchain-greentech/blob/main/Innovative%20Projects/README.md) 
 - **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - Automated OCM,OSCP,OCPI,SDKs & AI MCPs, for EV CPMS, Node.js/PHP (world first AI EV SDKs)
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain Implementation**)
