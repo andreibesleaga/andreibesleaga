@@ -43,7 +43,7 @@
 ### Other Projects
 - **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Electric Vehicle Charging** - Contributions to EV-related resources
 - **[Historical](https://github.com/andreibesleaga/old-projects)** - pre-GitHub era - **old innovative experiments & contributions**
-- **Code 4 Romania** - contributions to official websites during COVID crisis: [Ce ma fac](https://github.com/andreibesleaga/ce-ma-fac), [Who's Who](https://github.com/andreibesleaga/whos-who), [Taskforce React Components](https://github.com/andreibesleaga/taskforce-fe-components), [Stiri Oficiale](https://github.com/andreibesleaga/stiri-oficiale)
+- **Code 4 Romania** - official websites contribs during COVID crisis: [Ce ma fac](https://github.com/andreibesleaga/ce-ma-fac), [Who's Who](https://github.com/andreibesleaga/whos-who), [Taskforce React Components](https://github.com/andreibesleaga/taskforce-fe-components), [Stiri Oficiale](https://github.com/andreibesleaga/stiri-oficiale)
 ---
 
 ***An educational base of architectural templates and blueprints, these repositories reflect an intention for high-scale automation (Agentic AI) and core infrastructure (Energy, Web Protocols) to be optimized for efficiency, governed, correctly documented, and aligned with planetary sustainability goals and human values.***
