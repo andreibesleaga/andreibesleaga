@@ -12,7 +12,7 @@
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicle Charging Stations via MCP APIs)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced frontend demo for international medicine, search APIs, RxNorm)
 - **[kaiban-distributed-examples](https://github.com/andreibesleaga/kaiban-distributed-examples)** - **Kaiban Distributed Multi-Agent Systems**
-- **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** (Local tool for analysis, diagnostics, forecasting, suggestions)
+- **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** (Local analysis, diagnostics, forecasting, suggestions)
 
 ### AI Systems & Integrations
 - **[Kaiban Distributed](https://github.com/andreibesleaga/kaiban-distributed)** - **Distributed Agentic AI Platform** - world first visual distributed Actor-Model Kanban Multi-Agent-System framework, with Enterprise Messaging Layer State (Redis/Kafka), and deployed AI agents nodes (TypeScript/NodeJS ecosystem)
