@@ -1,30 +1,21 @@
 ## Hi there 👋
 
-A Software Architect, Engineer, Inventor, Author, specializing in: Web, Backend, Architecture, Systems, AI, Product Design, Business Solutions.
-
-Open-source projects, contributions, development, examples, proof-of-concepts, product/architecture/specs/design, systems, frameworks, research, experiments, innovation, compatibility, protocols, sustainability, greentech, emerging, educational, humanitarian, AI-enhanced apps.
-
-Creator of **Kaiban-Distributed, "Energy-Grid Balancing with EV Charging" Invention, "Sustainability Reporting" IETF Draft, GABBE**.
+- A Software Architect, Engineer, Inventor, Author, specializing in Web, Scalable Systems, AI - Products & Business Solutions.
+- Focus on: Open-source, Innovation, GreenTech, Healthcare, Telecom, Automations, Developers and Humanitarian Tech.
+- Technical: Web, Distributed architectures (monoliths, microservices, mesh, etc.), API/SDK/Protocols integrations, and Agentic AI.
 
 
-## 🔧 Technical/Domain Focus
-
-- Integrations: SDKs, APIs, Protocols, Standards, AI, A2A, MCP, AI Agents, Developer & Enterprise Tools.
-- Systems: Distributed architectures, mesh, gateways/proxies, ledgers/blockchain, monolith, microservices, Agentic AI.
-- Healthcare, GreenTech: MVPs/tools/libs/automations - Health, Pharma, Telecom, Electric Vehicles Charging Systems, etc.
-
-
-## 🚀 Projects
+## Projects
 
 ### Demos
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (APIs unification project & demo frontend)
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicle Charging Stations via MCP APIs)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced frontend demo for international medicine, search APIs, RxNorm)
 - **[kaiban-distributed-examples](https://github.com/andreibesleaga/kaiban-distributed-examples)** - **Kaiban Distributed Multi-Agent Systems**
-- **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** (Local tool made with [GABBE](https://github.com/andreibesleaga/GABBE), for medical imaging analysis and diagnostics, forecasting, treatment suggestions)
+- **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** (Local tool for analysis, diagnostics, forecasting, suggestions)
 
 ### AI Systems & Integrations
-- **[Kaiban Distributed](https://github.com/andreibesleaga/kaiban-distributed)** - **Distributed Agentic AI Platform** - world's first visual distributed Actor-Model Kanban Multi-Agent-System framework implementation, with Enterprise Messaging Layer State (Redis/Kafka/others), and individual deployed AI agents (TypeScript/NodeJS ecosystem)
+- **[Kaiban Distributed](https://github.com/andreibesleaga/kaiban-distributed)** - **Distributed Agentic AI Platform** - world first visual distributed Actor-Model Kanban Multi-Agent-System framework, with Enterprise Messaging Layer State (Redis/Kafka), and deployed AI agents nodes (TypeScript/NodeJS ecosystem)
 - **[GABBE](https://github.com/andreibesleaga/GABBE)** - **Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit** (governed dev kit for all languages, coding agents, platforms, with neuro-cognitive patterns and skills, based on Software Engineering SDLC & Architecture Best Practices)
 - **[DirectQL](https://github.com/andreibesleaga/DirectQL)** - **DirectQL** local/deployable **Interactive AI Data platform for GraphQL APIs (GitHub) & SQL** - for devs, data professionals, and other end-users
 - **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - **AI trainable chatbot, RAG, using OPEA, ArangoDB, vLLM** (GENIE.AI platform backend/UI system, localized & optimized for development on limited consumer hardware)
@@ -36,12 +27,12 @@ Creator of **Kaiban-Distributed, "Energy-Grid Balancing with EV Charging" Invent
 - **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - Curated list of **Distributed Ledger Technologies for GreenTech** - with examples of **Sustainability-First Consensus** projects - [Environmental Innovative Systems Proposals](https://github.com/andreibesleaga/awesome-blockchain-greentech/blob/main/Innovative%20Projects/README.md) 
 - **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - Automated OCM,OSCP,OCPI,SDKs & AI MCPs, for EV CPMS, Node.js/PHP (world first AI EV SDKs)
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain Implementation**)
-- **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **Common Alert Protocol** automated translations distributed proxy
 
 ### Other Systems, Libs, Specs, Tools
 - **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** - **JSON-TOON Gateway** - sample proxy microservice for **on-the-fly data format transformations**
 - **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - world's first PHP implementation of **A2A AI Agent-to-Agent Protocol** (v0.3)
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend template framework** - multi-protocol and microservice patterns
+- **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **Common Alert Protocol** automated translations distributed proxy
 - **[NaturalLanguageAPIBackends](https://github.com/andreibesleaga/NaturalLanguageAPIBackends)** - **AI-powered Natural Language Queries** for SQL, REST APIs, GraphQL
 - **[universal-sql-vmm](https://github.com/andreibesleaga/universal-sql-vmm)** - **SQL Microservice Gateway** with multi DB adapters and protocols
 - **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain events audit logger** with custom ERC20 currency: LOGC
@@ -52,7 +43,7 @@ Creator of **Kaiban-Distributed, "Energy-Grid Balancing with EV Charging" Invent
 ### Other Projects
 - **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Electric Vehicle Charging** - Contributions to EV-related resources
 - **[Historical](https://github.com/andreibesleaga/old-projects)** - pre-GitHub era - **old innovative experiments & contributions**
-- **Code 4 Romania Official Websites** - contributions during COVID crisis period: [Ce ma fac](https://github.com/andreibesleaga/ce-ma-fac), [Who's Who](https://github.com/andreibesleaga/whos-who), [Taskforce React Components](https://github.com/andreibesleaga/taskforce-fe-components), [Stiri Oficiale](https://github.com/andreibesleaga/stiri-oficiale)
+- **Code 4 Romania** - contributions to official websites during COVID crisis: [Ce ma fac](https://github.com/andreibesleaga/ce-ma-fac), [Who's Who](https://github.com/andreibesleaga/whos-who), [Taskforce React Components](https://github.com/andreibesleaga/taskforce-fe-components), [Stiri Oficiale](https://github.com/andreibesleaga/stiri-oficiale)
 ---
 
-***An educational base of architectural templates and blueprints for the next generation of computing, repositories reflect an intention to ensure that high-scale automation (Agentic AI) and core infrastructure (Energy, Web Protocols) will be optimized for efficiency, strictly governed, correctly documented, and fundamentally aligned with planetary sustainability goals and human values.***
+***An educational base of architectural templates and blueprints, these repositories reflect an intention for high-scale automation (Agentic AI) and core infrastructure (Energy, Web Protocols) to be optimized for efficiency, governed, correctly documented, and aligned with planetary sustainability goals and human values.***
