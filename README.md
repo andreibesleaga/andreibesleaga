@@ -46,4 +46,4 @@
 - **Code 4 Romania** - official websites contribs during COVID crisis: [Ce ma fac](https://github.com/andreibesleaga/ce-ma-fac), [Who's Who](https://github.com/andreibesleaga/whos-who), [Taskforce React Components](https://github.com/andreibesleaga/taskforce-fe-components), [Stiri Oficiale](https://github.com/andreibesleaga/stiri-oficiale)
 ---
 
-***An educational base of architectural templates and blueprints, these repositories reflect an intention for high-scale automation (Agentic AI) and core infrastructure (Energy, Web Protocols) to be optimized for efficiency, governed, correctly documented, and aligned with planetary sustainability goals and human values. Repos marked as DEPRECATED are not actively maintained/updated***
+***An educational base of architectural templates and blueprints, these repositories reflect an intention for high-scale automation (Agentic AI) and core infrastructure (Energy, Web Protocols) to be optimized for efficiency, governed, correctly documented, and aligned with planetary sustainability goals and human values. Repos marked as DEPRECATED are not actively maintained/updated.***
