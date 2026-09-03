@@ -24,6 +24,7 @@
 
 ### GreenTech, Sustainability, Electric Vehicles
 - **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability-data` well-known URI**, Internet Draft Proposal
+- **[sustainability-loop-eval](https://github.com/andreibesleaga/sustainability-loop-eval)** - **The Cybernetic Sustainability Loop**, Governed Agentic Systems on a Sustainability Data Plane - presentation & evaluation package
 - **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - Curated list of **Distributed Ledger Technologies for GreenTech** - with examples of **Sustainability-First Consensus** projects - [Environmental Innovative Systems Proposals](https://github.com/andreibesleaga/awesome-blockchain-greentech/blob/main/Innovative%20Projects/README.md) 
 - **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - Automated OCM,OSCP,OCPI,SDKs & AI MCPs, for EV CPMS, Node.js/PHP (world first AI EV SDKs)
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain Implementation**)
