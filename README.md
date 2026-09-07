@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - A Software Engineer, Systems Architect, Inventor, Author, specializing in Web, Scalable Systems, AI - Products & Business Solutions.
-- Focus on: Open-source, Innovation, GreenTech, Healthcare, Automations, Telecom, Developers, Humanitarian Tech.
+- Focus on: Open-source, Innovation, GreenTech, Healthcare, Automations, Telecom, Developers, Humanitarian Tech, Research.
 - Technical: Web, Distributed architectures (monoliths, microservices, mesh, etc.), API/SDK/Protocols integrations, Agentic AI.
 
 
