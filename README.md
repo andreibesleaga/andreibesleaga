@@ -15,7 +15,7 @@
 - **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** (Local analysis, diagnostics, forecasting, suggestions)
 
 ### AI Systems & Integrations, Agentic AI
-- **[Kaiban Distributed](https://github.com/andreibesleaga/kaiban-distributed)** - **Distributed Agentic AI Platform** - world first visual distributed Actor-Model Kanban Multi-Agent-System framework, with Enterprise Messaging Layer State (Redis/Kafka), and deployed AI agents nodes (TypeScript/NodeJS ecosystem)
+- **[Kaiban Distributed](https://github.com/andreibesleaga/kaiban-distributed)** - **Distributed Agentic AI Platform** - one of first visual distributed Actor-Model Kanban Multi-Agent-System framework, with Enterprise Messaging Layer State (Redis/Kafka), and deployed AI agents nodes (TypeScript/NodeJS ecosystem)
 - **[GABBE](https://github.com/andreibesleaga/GABBE)** - **Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit** (governed dev kit for all languages, coding agents, platforms, with neuro-cognitive patterns and skills, based on Software Engineering SDLC & Architecture Best Practices)
 - **[DirectQL](https://github.com/andreibesleaga/DirectQL)** - **DirectQL** local/deployable **Interactive AI Data platform for GraphQL APIs (GitHub) & SQL** - for devs, data professionals, and other end-users
 - **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - **AI trainable chatbot, RAG, using OPEA, ArangoDB, vLLM** (GENIE.AI platform backend/UI system, localized & optimized for development on limited consumer hardware)
@@ -26,12 +26,12 @@
 - **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability-data` well-known URI**, Internet Draft Proposal
 - **[sustainability-loop-eval](https://github.com/andreibesleaga/sustainability-loop-eval)** - **The Cybernetic Sustainability Loop**, Governed Agentic Systems on a Sustainability Data Plane - presentation & evaluation package
 - **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - Curated list of **Distributed Ledger Technologies for GreenTech** - with examples of **Sustainability-First Consensus** projects - [Environmental Innovative Systems Proposals](https://github.com/andreibesleaga/awesome-blockchain-greentech/blob/main/Innovative%20Projects/README.md)
-- **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - Automated OCM,OSCP,OCPI,SDKs & AI MCPs, for EV CPMS, Node.js/PHP (world first AI EV SDKs)
+- **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - Automated OCM,OSCP,OCPI,SDKs & AI MCPs, for EV CPMS, Node.js/PHP (one of first AI EV SDKs)
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain Implementation**)
 
 ### Other Systems, Libs, Specs, Tools
 - **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** - **JSON-TOON Gateway** - sample proxy microservice for **on-the-fly data format transformations**
-- **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - world's first PHP implementation of **A2A AI Agent-to-Agent Protocol** (v0.3)
+- **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - one of first PHP implementation of **A2A AI Agent-to-Agent Protocol** (v0.3)
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend template framework** - multi-protocol and microservice patterns
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **Common Alert Protocol** automated translations distributed proxy
 - **[NaturalLanguageAPIBackends](https://github.com/andreibesleaga/NaturalLanguageAPIBackends)** - **AI-powered Natural Language Queries** for SQL, REST APIs, GraphQL
