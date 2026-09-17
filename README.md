@@ -8,23 +8,23 @@
 ## Projects
 
 ### Demos
-- **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API MCP Integration Demo** (Electric Vehicle Charging Stations Finder via MCP APIs)
-- **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (APIs unification project & demo frontend)
-- **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced frontend demo for international medicine, search APIs, RxNorm)
-- **[kaiban-distributed-examples](https://github.com/andreibesleaga/kaiban-distributed-examples)** - **Kaiban Distributed Multi-Agent AI Systems**
+- **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API AI MCP Demo** (Electric Vehicle Charging Stations Finder via AI MCP APIs)
+- **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (API unification & Urban Emergency Demo frontend)
+- **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced frontend international medicine finder demo, search APIs, RxNorm)
+- **[kaiban-distributed-examples](https://github.com/andreibesleaga/kaiban-distributed-examples)** - **Multi-Agent AI Systems**, multiple agentic AI systems in Node.js, with Kaiban Distributed
 - **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** (Local analysis, diagnostics, forecasting, suggestions)
 
 ### AI Systems & Integrations, Agentic AI
 - **[Kaiban Distributed](https://github.com/andreibesleaga/kaiban-distributed)** - **Distributed Agentic AI Platform** - one of the first visual distributed Actor-Model Kanban Multi-Agent-System frameworks, with Enterprise Messaging Layer State (Redis/Kafka), and deployed AI agents nodes (TypeScript/Node.js ecosystem)
 - **[GABBE](https://github.com/andreibesleaga/GABBE)** - **Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit** (governed dev kit for all languages, coding agents, platforms, with neuro-cognitive patterns and skills, based on Software Engineering SDLC & Architecture Best Practices)
-- **[DirectQL](https://github.com/andreibesleaga/DirectQL)** - **DirectQL** local/deployable **Interactive AI Data platform for GraphQL APIs (GitHub) & SQL** - for devs, data professionals, and other end-users
-- **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - **AI trainable chatbot, RAG, using OPEA, ArangoDB, vLLM** (GENIE.AI platform backend/UI system, localized & optimized for development on limited consumer hardware)
+- **[DirectQL](https://github.com/andreibesleaga/DirectQL)** - **Interactive AI Data platform with GraphQL & SQL** - for devs, data professionals, and other end-users, local/cloud
+- **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - **AI Trainable Chatbot** (GENIE.AI platform backend/UI system, localized & optimized for development on limited consumer hardware, RAG, using OPEA, ArangoDB, vLLM, OpenGovernment)
 - **[awesome-agentic-ai-js](https://github.com/andreibesleaga/awesome-agentic-ai-js)** - **Awesome Agentic AI JS/TS** - Curated list of **Agentic AI** frameworks, libraries, standards, and resources, specifically for **JavaScript/TypeScript** developers
 - **[awesome-ai-php](https://github.com/andreibesleaga/awesome-ai-php)** - **Awesome AI & Agentic AI with PHP** - Curated list of libraries, SDKs, frameworks, software for Artificial Intelligence, LLMs, Machine Learning, Agentic AI, and resources, specifically for **PHP** developers
 
 ### GreenTech, Sustainability, Electric Vehicles, Climate, Emergency
 - **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability-data` well-known URI**, Internet Draft Proposal
-- **[sustainability-loop-eval](https://github.com/andreibesleaga/sustainability-loop-eval)** - **The Cybernetic Sustainability Loop**, Governed Agentic Systems on a Sustainability Data Plane - presentation & evaluation package
+- **[sustainability-loop-eval](https://github.com/andreibesleaga/sustainability-loop-eval)** - **Cybernetic Sustainability Loop**, Governed Agentic Systems on a Sustainability Data Plane evaluation
 - **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - Curated list of **Distributed Ledger Technologies for GreenTech** - with examples of **Sustainability-First Consensus** projects - [Environmental Innovative Systems Proposals](https://github.com/andreibesleaga/awesome-blockchain-greentech/blob/main/Innovative%20Projects/README.md)
 - **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - Automated OCM,OSCP,OCPI,SDKs & AI MCPs, for EV CPMS, Node.js/PHP (one of first AI EV SDKs)
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain Implementation**)
