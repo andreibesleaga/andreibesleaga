@@ -16,7 +16,7 @@
 
 ### AI Systems & Integrations, Agentic AI
 - **[Kaiban Distributed](https://github.com/andreibesleaga/kaiban-distributed)** - **Distributed Agentic AI Platform** - one of the first visual distributed Actor-Model Kanban Multi-Agent-System frameworks, with Enterprise Messaging Layer State (Redis/Kafka), and deployed AI agents nodes (TypeScript/Node.js ecosystem)
-- **[GABBE](https://github.com/andreibesleaga/GABBE)** - **Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit** (governed dev kit for all languages, coding agents, platforms, with neuro-cognitive patterns and skills, based on Software Engineering SDLC & Architecture Best Practices)
+- **[GABBE](https://github.com/andreibesleaga/GABBE)** - **Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit** (governed dev kit for all languages, coding agents, platforms - neuro-cognitive patterns, skills - based on Software Engineering SDLC & Architecture Best Practices)
 - **[DirectQL](https://github.com/andreibesleaga/DirectQL)** - **Interactive AI Data platform (via GraphQL & SQL)** - for devs, data professionals, and other end-users, local/cloud
 - **[ghiseul-ai](https://github.com/andreibesleaga/ghiseul-ai)** - **AI Trainable Chatbot** (GENIE.AI platform backend/UI system, localized & optimized for development on limited consumer hardware, RAG, using OPEA, ArangoDB, vLLM, OpenGovernment)
 - **[awesome-agentic-ai-js](https://github.com/andreibesleaga/awesome-agentic-ai-js)** - **Awesome Agentic AI JS/TS** - Curated list of **Agentic AI** frameworks, libraries, standards, and resources, specifically for **JavaScript/TypeScript** developers
