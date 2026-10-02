@@ -7,7 +7,7 @@
 
 ## Projects
 
-### Demo
+### Demos
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API AI MCP Demo** (Electric Vehicle Charging Stations Finder via AI MCP APIs)
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (API unification & Urban Emergency Demo frontend)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced frontend international medicine finder demo, search APIs, RxNorm)
