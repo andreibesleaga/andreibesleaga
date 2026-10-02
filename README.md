@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-- A Software Engineer, Systems Architect, Inventor, Author, specializing in Web, Scalable Systems, AI - Products & Business Solutions.
-- Focus on: Open-source, Innovation, GreenTech, Healthcare, Automations, Telecom, Developers, Humanitarian Tech, Research.
-- Technical: Web, Distributed architectures (monoliths, microservices, mesh, etc.), API/SDK/Protocols integrations, Agentic AI.
+- A Software Engineer, Systems Architect, Inventor, Author, specializing in Web, AI, Scalable Systems - Products & Business Solutions.
+- Focus: Open-source, Innovation, GreenTech, Healthcare, Automations, Telecom, Developers, Humanitarian Tech, Research.
+- Technical: Web, Distributed (monoliths, microservices, mesh, etc.), API/SDK/Protocols, Agentic AI.
 
 
 ## Projects
 
-### Demos
+### Demo
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API AI MCP Demo** (Electric Vehicle Charging Stations Finder via AI MCP APIs)
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (API unification & Urban Emergency Demo frontend)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced frontend international medicine finder demo, search APIs, RxNorm)
@@ -23,28 +23,28 @@
 - **[awesome-agentic-ai-js](https://github.com/andreibesleaga/awesome-agentic-ai-js)** - **Awesome Agentic AI JS/TS** - Curated list of **Agentic AI** frameworks, libraries, standards, and resources, specifically for **JavaScript/TypeScript** developers
 - **[awesome-ai-php](https://github.com/andreibesleaga/awesome-ai-php)** - **Awesome AI & Agentic AI with PHP** - Curated list of libraries, SDKs, frameworks, software for Artificial Intelligence, LLMs, Machine Learning, Agentic AI, and resources, specifically for **PHP** developers
 
-### GreenTech, Sustainability, Electric Vehicles, Climate, Emergency
+### GreenTech, Sustainability, Climate, Emergency
 - **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability-data` well-known URI**, Internet Draft Proposal
-- **[sustainability-loop-eval](https://github.com/andreibesleaga/sustainability-loop-eval)** - **Cybernetic Sustainability Loop**, Governed Agentic Systems on a Sustainability Data Plane evaluation
+- **[sustainability-loop-eval](https://github.com/andreibesleaga/sustainability-loop-eval)** - **Cybernetic Sustainability Loop**, Governed Agentic Systems on a Sustainability Data Plane
 - **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - Curated list of **Distributed Ledger Technologies for GreenTech** - with examples of **Sustainability-First Consensus** projects - [Environmental Innovative Systems Proposals](https://github.com/andreibesleaga/awesome-blockchain-greentech/blob/main/Innovative%20Projects/README.md)
-- **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - Automated OCM,OSCP,OCPI,SDKs & AI MCPs, for EV CPMS, Node.js/PHP (one of first AI EV SDKs)
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain Implementation**)
 
 ### Other Systems, Libs, Specs, Tools
 - **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** - **JSON-TOON Gateway** - sample proxy microservice for **on-the-fly data format transformations**
 - **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - one of the first PHP implementation of **A2A AI Agent-to-Agent Protocol** (v0.3)
+- **[zFeeder](https://github.com/andreibesleaga/zfeeder)** - the 2004 PHP RSS aggregator with admin, rebuilt for 2026
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv)** - NestJS/Node.js **backend template framework** - multi-protocol and microservice patterns
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway)** - **Common Alert Protocol** automated translations distributed proxy
 - **[NaturalLanguageAPIBackends](https://github.com/andreibesleaga/NaturalLanguageAPIBackends)** - **AI-powered Natural Language Queries** for SQL, REST APIs, GraphQL
 - **[universal-sql-vmm](https://github.com/andreibesleaga/universal-sql-vmm)** - **SQL Microservice Gateway** with multi DB adapters and protocols
-- **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain events audit logger** with custom ERC20 currency: LOGC
-- **[VisualGridDev](https://github.com/andreibesleaga/VisualGridDev)** - **Visual Dev IDE platform** arch specs for distributed agentic AI and classical systems
-- **[ocm-api-docs](https://andreibesleaga.github.io/ocm-api-reference/)** - Public API Reference for the OCM (Open Charge Map) API, published as a static site to GitHub Pages
-- **[camara-api-docs](https://andreibesleaga.github.io/camara-api-reference/)** - Public API Reference for the CAMARA Unified API, published as a static site to GitHub Pages
-- **[zFeeder](https://github.com/andreibesleaga/zfeeder)** - the 2004 PHP RSS aggregator with admin, rebuilt for 2026
+- **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain events audit logger** with custom "LOGC" ERC20 currency
+
+### Electric Vehicle Charging Automations
+- **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Electric Vehicle Charging** - Contributions to EV-related resources
+- **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - Automated OCM,OSCP,OCPI,SDKs & AI MCPs, for CPMS/CSMS, (Node.js/PHP, first EV AI SDKs)
+- **[ocm-api-docs](https://andreibesleaga.github.io/ocm-api-reference/)** - Public API Reference for the OCM (Open Charge Map) API static GitHub Pages site
 
 ### Other Projects
-- **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Electric Vehicle Charging** - Contributions to EV-related resources
 - **[Historical](https://github.com/andreibesleaga/old-projects)** - pre-GitHub era - **old innovative experiments & contributions**
 - **Code 4 Romania** - official websites contribs during COVID crisis: [Ce ma fac](https://github.com/andreibesleaga/ce-ma-fac), [Who's Who](https://github.com/andreibesleaga/whos-who), [Taskforce React Components](https://github.com/andreibesleaga/taskforce-fe-components), [Stiri Oficiale](https://github.com/andreibesleaga/stiri-oficiale)
 ---
