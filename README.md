@@ -40,8 +40,8 @@
 - **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain events audit logger** with custom "LOGC" ERC20 currency
 
 ### Electric Vehicle Charging Automations & Other Projects
-- **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Electric Vehicle Charging** - Contributions to EV-related resources
 - **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - Automated OCM,OSCP,OCPI,SDKs & AI MCPs, for CPMS/CSMS, (Node.js/PHP, first EV AI SDKs)
+- **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Electric Vehicle Charging** - Contributions to EV-related resources
 - **[ocm-api-docs](https://andreibesleaga.github.io/ocm-api-reference/)** - Public API Reference for the OCM (Open Charge Map) API static GitHub Pages site
 - **[Historical](https://github.com/andreibesleaga/old-projects)** - pre-GitHub era - **old innovative experiments & contributions**
 - **Code 4 Romania** - official websites contribs during COVID crisis: [Ce ma fac](https://github.com/andreibesleaga/ce-ma-fac), [Who's Who](https://github.com/andreibesleaga/whos-who), [Taskforce React Components](https://github.com/andreibesleaga/taskforce-fe-components), [Stiri Oficiale](https://github.com/andreibesleaga/stiri-oficiale)
