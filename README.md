@@ -12,7 +12,7 @@
 - **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (API unification & Urban Emergency Demo frontend)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced frontend international medicine finder demo, search APIs, RxNorm)
 - **[kaiban-distributed-examples](https://github.com/andreibesleaga/kaiban-distributed-examples)** - **Multi-Agent AI Systems**, multiple agentic AI systems in Node.js, with Kaiban Distributed
-- **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** (Local analysis, diagnostics, forecasting, suggestions)
+- **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** (Local analysis, diagnostics, forecasting)
 
 ### AI Systems & Integrations, Agentic AI
 - **[AgenticSystemCore](https://github.com/andreibesleaga/agentic-system-core)** - **Agentic Web Knowledge**- Open format bridging human knowledge and distributed AI agent memory, turning plain Markdown text notes into a knowledge web to be used in six different ways, by humans and agents together
