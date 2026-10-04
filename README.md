@@ -15,7 +15,7 @@
 - **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** (Local analysis, diagnostics, forecasting)
 
 ### AI Systems & Integrations, Agentic AI 
-- **[AgenticSystemCore](https://github.com/andreibesleaga/agentic-system-core)** - **Agentic Web Knowledge**- Open format bridging human knowledge and distributed AI agent memory, turning plain Markdown text notes into a knowledge web to be used in six different ways, by humans and agents together
+- **[AgenticSystemCore](https://github.com/andreibesleaga/agentic-system-core)** - **Agentic Web Knowledge** - Open format bridging human knowledge and distributed AI agent memory, turning plain Markdown text notes into a knowledge web to be used in six different ways, by humans and agents together
 - **[Kaiban Distributed](https://github.com/andreibesleaga/kaiban-distributed)** - **Distributed Agentic AI Platform** - one of the first visual distributed Actor-Model Kanban Multi-Agent-System frameworks, with Enterprise Messaging Layer State (Redis/Kafka), and deployed AI agents nodes (TypeScript/Node.js ecosystem)
 - **[GABBE](https://github.com/andreibesleaga/GABBE)** - **Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit** (governed dev kit for all languages, coding agents, platforms - neuro-cognitive patterns, skills - based on Software Engineering SDLC & Architecture Best Practices)
 - **[DirectQL](https://github.com/andreibesleaga/DirectQL)** - **Interactive AI Data platform (via GraphQL & SQL)** - for devs, data professionals, and other end-users, local/cloud
