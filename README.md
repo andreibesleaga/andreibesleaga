@@ -1,15 +1,15 @@
 ## Hi there 👋
 
 - A Software Engineer, Systems Architect, Inventor, Author, specializing in Web, AI, Systems - Products & Business Solutions.
-- Focus: Open-source, Innovation, GreenTech, Healthcare, Automations, Telecom, Developers, Humanitarian Tech, Research.
+- Focus: Open-source, Innovation, GreenTech, Healthcare, Automations, Telecom, Developers, Humanitarian, Research.
 - Technical: Web, Distributed (monoliths, microservices, mesh, etc.), API/SDK/Protocols, Agentic AI.
 
 
 ## Projects
 
 ### Demos
-- **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map API AI MCP Demo** (Electric Vehicle Charging Stations Finder via AI MCP APIs)
-- **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network APIs SDK Demo** (API unification & Urban Emergency Demo frontend)
+- **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map AI** (Electric Vehicle Charging Stations Finder Demo, via AI MCP APIs)
+- **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo)** - **CAMARA Telecom Network** (API SDKs unification & Urban Emergency Demo frontend)
 - **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced frontend international medicine finder demo, search APIs, RxNorm)
 - **[kaiban-distributed-examples](https://github.com/andreibesleaga/kaiban-distributed-examples)** - **Multi-Agent AI Systems**, multiple agentic AI systems in Node.js, with Kaiban Distributed
 - **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical Imagery Diagnostic Helper** (Local analysis, diagnostics, forecasting)
@@ -26,10 +26,11 @@
 ### GreenTech, Sustainability, Climate, Emergency
 - **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability-data` well-known URI**, Internet Draft Proposal
 - **[sustainability-loop-eval](https://github.com/andreibesleaga/sustainability-loop-eval)** - **Cybernetic Sustainability Loop**, Governed Agentic Systems on a Sustainability Data Plane
-- **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - Curated list of **Distributed Ledger Technologies for GreenTech** - with examples of **Sustainability-First Consensus** projects - [Environmental Innovative Systems Proposals](https://github.com/andreibesleaga/awesome-blockchain-greentech/blob/main/Innovative%20Projects/README.md)
+- **[awesome-blockchain-greentech](https://github.com/andreibesleaga/awesome-blockchain-greentech)** - **Awesome Blockchain Greentech** - Curated list of **Distributed Ledger Technologies for GreenTech** & **Sustainability-First Consensus** projects - [Environmental Innovative Systems Proposals](https://github.com/andreibesleaga/awesome-blockchain-greentech/blob/main/Innovative%20Projects/README.md)
 - **[mobile-mesh-ews](https://github.com/andreibesleaga/mobile-mesh-ews)** - **Climate Early Warning System** product/architecture proposals (**BigQueryAI Decision Brain Implementation**)
+- **[BEACON-COP](https://github.com/andreibesleaga/quest-beacon)** - **Browser Emergency Awareness Coordination Open Network Common Operating Picture** - Emergency Warning & Management System
 
-### Other Systems, Libs, Specs, Tools
+### Systems, Libs, Specs, Tools
 - **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** - **JSON-TOON Gateway** - sample proxy microservice for **on-the-fly data format transformations**
 - **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - one of the first PHP implementation of **A2A AI Agent-to-Agent Protocol** (v0.3)
 - **[zFeeder](https://github.com/andreibesleaga/zfeeder)** - the 2004 PHP RSS aggregator with admin, rebuilt for 2026
