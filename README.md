@@ -2,10 +2,9 @@
 
 - A Software Engineer, Systems Architect, Inventor, Author, specializing in Web, AI, Systems - Products & Business Solutions.
 - Focus: Open-source, Innovation, GreenTech, Healthcare, Automations, Telecom, Developers, Humanitarian, Research.
-- Technical: Web, Distributed (monoliths, microservices, mesh, etc.), API/SDK/Protocols, Agentic AI.
+- Technical: Web, Distributed (monoliths, microservices, mesh, Node.js/PHP, etc.), API/SDK/Protocols, Agentic AI.
 
-
-## Projects
+***
 
 ### Demos
 - **[ocm-demo](https://github.com/andreibesleaga/ocm-demo)** - **Open Charge Map AI** (Electric Vehicle Charging Stations Finder Demo, via AI MCP APIs)
