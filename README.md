@@ -2,7 +2,7 @@
 
 - A Software Engineer, Systems Architect, Inventor, Author, specializing in Web, AI, Systems - Products & Business Solutions.
 - Focus: Open-source, Innovation, GreenTech, Healthcare, Automations, Telecom, Developers, Humanitarian, Research.
-- Technical: Web, Distributed (monoliths, microservices, mesh, Node.js/PHP, etc.), API/SDK/Protocols, Agentic AI.
+- Technical: Web, Distributed (monoliths, microservices, Node.js/PHP/SQL/NoSQL, etc.), API/SDK/Protocols, Agentic AI.
 
 ***
 
