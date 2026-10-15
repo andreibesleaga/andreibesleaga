@@ -21,7 +21,7 @@
 - **[ghiseu-ai](https://github.com/andreibesleaga/ghiseu-ai)** - **AI Trainable Chatbot** (GENIE.AI platform backend/UI system, localized & optimized for development on limited consumer hardware, RAG, using OPEA, ArangoDB, vLLM, OpenGovernment)
 - **[awesome-agentic-ai-js](https://github.com/andreibesleaga/awesome-agentic-ai-js)** - **Awesome Agentic AI JS/TS** - Curated list of **Agentic AI** frameworks, libraries, standards, and resources, specifically for **JavaScript/TypeScript** developers
 - **[awesome-ai-php](https://github.com/andreibesleaga/awesome-ai-php)** - **Awesome AI & Agentic AI with PHP** - Curated list of libraries, SDKs, frameworks, software for Artificial Intelligence, LLMs, Machine Learning, Agentic AI, and resources, specifically for **PHP** developers
-- **[Agentic AI Architectures](https://github.com/andreibesleaga/agentic-ai-architectures)** - **"Agentic AI Architectures" Book Companion Projects** - Multiple TypeScript/Node.js agentic AI software projects for the [Wiley Book, by Andrei N Besleaga, 2026](https://agenticaiarchitectures.com) (alternative experimental repos for [Python](https://github.com/andreibesleaga/agentic-ai-python) and [PHP](https://github.com/andreibesleaga/agentic-ai-php))
+- **[Agentic AI Architectures](https://github.com/andreibesleaga/agentic-ai-architectures)** - **"Agentic AI Architectures" Book Companion Projects** - Multiple TypeScript/Node.js agentic AI software projects for the [Wiley Book, by Andrei N Besleaga, 2026](https://agenticaiarchitectures.com) (experimental repos for [Python](https://github.com/andreibesleaga/agentic-ai-python) and [PHP](https://github.com/andreibesleaga/agentic-ai-php) translated projects)
 
 ### GreenTech, Sustainability, Climate, Emergency
 - **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability-data` well-known URI**, Internet Draft Proposal
@@ -40,7 +40,7 @@
 - **[universal-sql-vmm](https://github.com/andreibesleaga/universal-sql-vmm)** - **SQL Microservice Gateway** with multi DB adapters and protocols
 - **[EventLogChain](https://github.com/andreibesleaga/EventLogChain)** - **Ethereum blockchain events audit logger** with custom "LOGC" ERC20 currency
 
-### Electric Vehicle Charging Automations & Other Projects
+### Electric Vehicle Charging & Other Projects
 - **[ocm-sdk](https://github.com/andreibesleaga/ocm-sdk) [oscp-sdk](https://github.com/andreibesleaga/oscp-sdk) [ocpi-sdk](https://github.com/andreibesleaga/ocpi-sdk)** - Automated OCM,OSCP,OCPI,SDKs & AI MCPs, for CPMS/CSMS, (Node.js/PHP, first EV AI SDKs)
 - **[awesome-ev-charging](https://github.com/andreibesleaga/awesome-ev-charging)** - **Awesome Electric Vehicle Charging** - Contributions to EV-related resources
 - **[ocm-api-docs](https://andreibesleaga.github.io/ocm-api-reference/)** - Public API Reference for the OCM (Open Charge Map) API static GitHub Pages site
