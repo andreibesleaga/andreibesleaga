@@ -46,6 +46,10 @@
 - **[ocm-api-docs](https://andreibesleaga.github.io/ocm-api-reference/)** - Public API Reference for the OCM (Open Charge Map) API static GitHub Pages site
 - **[Historical](https://github.com/andreibesleaga/old-projects) (archived)** - pre-GitHub era - **old innovative experiments & contributions**
 - **Code 4 Romania** - official websites contribs during COVID crisis: [Ce ma fac](https://github.com/andreibesleaga/ce-ma-fac) (archived), [Who's Who](https://github.com/andreibesleaga/whos-who) (archived), [Taskforce React Components](https://github.com/andreibesleaga/taskforce-fe-components) (archived), [Stiri Oficiale](https://github.com/andreibesleaga/stiri-oficiale) (archived)
+
+### Default Community Files
+- **[LICENSE, SECURITY, CONTRIBUTING](https://github.com/andreibesleaga/.github)** - default files for any repo or project that does not have them yet
+
 ---
 
 ***A base of architectural templates and blueprints, these repositories reflect an intention for high-scale automation (Agentic AI), core infrastructure (Energy, Web Protocols, Sustainability, Climate, Humanitarian), and innovative tech projects, to be optimized for efficiency, governed, correctly documented and implemented, and aligned with planetary sustainability goals and human values. Repos marked DEPRECATED or archived are not actively maintained/updated.***
