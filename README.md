@@ -7,14 +7,14 @@
 ***
 
 ### Demos
-- **[ocm-demo](https://github.com/andreibesleaga/ocm-demo) (archived)** - **Open Charge Map AI** (Electric Vehicle Charging Stations Finder Demo, via AI MCP APIs)
-- **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo) (archived)** - **CAMARA Telecom Network** (API SDKs unification & Urban Emergency Demo frontend)
-- **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** - **Medicine Brand Finder** (AI-enhanced frontend international medicine finder demo, search APIs, RxNorm)
+- **[medicine-finder](https://github.com/andreibesleaga/medicine-finder)** (live) - **Medicine Brand Finder** (AI-enhanced frontend international medicine finder demo, search APIs, RxNorm)
 - **[kaiban-distributed-examples](https://github.com/andreibesleaga/kaiban-distributed-examples)** - **Multi-Agent AI Systems**, multiple agentic AI systems in Node.js, with Kaiban Distributed
 - **[Agentic AI Medical Imaging Helper](https://github.com/andreibesleaga/AgenticMedicalImagingHelper)** - **Medical-image series analysis** (research and education only, not a medical device)
+- **[ocm-demo](https://github.com/andreibesleaga/ocm-demo) (archived/live)** - **Open Charge Map AI** (Electric Vehicle Charging Stations Finder Demo, via AI MCP APIs)
+- **[camara-emergency-demo](https://github.com/andreibesleaga/camara-emergency-demo) (archived/live)** - **CAMARA Telecom Network** (API SDKs unification & Urban Emergency Demo frontend)
 
 ### AI Systems & Integrations, Agentic AI 
-- **[AgenticSystemCore](https://github.com/andreibesleaga/agentic-system-core)** - **Agentic Web Knowledge** - Open format bridging human knowledge and distributed AI agent memory, turning plain Markdown text notes into a knowledge web to be used in six different ways, by humans and agents together
+- **[AgenticSystemCore](https://github.com/andreibesleaga/agentic-system-core)** (live) - **Agentic Web Knowledge** - Open format bridging human knowledge and distributed AI agent memory, turning plain Markdown text notes into a knowledge web to be used in six different ways, by humans and agents together
 - **[Kaiban Distributed](https://github.com/andreibesleaga/kaiban-distributed)** - **Distributed Agentic AI Platform** - one of the first visual distributed Actor-Model Kanban Multi-Agent-System frameworks, with Enterprise Messaging Layer State (Redis/Kafka), and deployed AI agents nodes (TypeScript/Node.js ecosystem)
 - **[GABBE](https://github.com/andreibesleaga/GABBE)** - **Generative Architectural Brain Base Engine - Agentic Software R&D Engineering Kit** (governed development framework with multiple personas team for all languages, coding agents, platforms - neuro-cognitive patterns, skills, templates - based on Software Engineering (A)SDLC & Architecture Best Practices)
 - **[DirectQL](https://github.com/andreibesleaga/DirectQL)** - **Interactive AI Data platform (via GraphQL & SQL)** - for devs, data professionals, and other end-users, local/cloud
@@ -31,9 +31,9 @@
 - **[BEACON-COP](https://github.com/andreibesleaga/quest-beacon)** - **Browser Emergency Awareness Coordination Open Network Common Operating Picture** - Emergency Warning & Management System
 
 ### Systems, Libs, Specs, Tools
-- **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** - **JSON-TOON Gateway** - sample proxy microservice for **on-the-fly data format transformations**
+- **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** (live) - **JSON-TOON Gateway** - sample proxy microservice for **on-the-fly data format transformations**
 - **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - a PHP implementation of the **A2A AI Agent-to-Agent Protocol** (v0.3)
-- **[zFeeder](https://github.com/andreibesleaga/zfeeder)** - the 2004 PHP RSS aggregator with admin, rebuilt for 2026
+- **[zFeeder](https://github.com/andreibesleaga/zfeeder)** (live) - the 2004 PHP RSS aggregator with admin, rebuilt for 2026
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv) (archived)** - NestJS/Node.js **backend template framework** - multi-protocol and microservice patterns
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway) (archived)** - **Common Alert Protocol** automated translations distributed proxy
 - **[NaturalLanguageAPIBackends](https://github.com/andreibesleaga/NaturalLanguageAPIBackends) (archived)** - **AI-powered Natural Language Queries** for SQL, REST APIs, GraphQL
@@ -52,4 +52,4 @@
 
 ---
 
-***A base of architectural templates and blueprints, these repositories reflect an intention for high-scale automation (Agentic AI), core infrastructure (Energy, Web Protocols, Sustainability, Climate, Humanitarian), and innovative tech projects, to be optimized for efficiency, governed, correctly documented and implemented, and aligned with planetary sustainability goals and human values. Repos marked DEPRECATED or archived are not actively maintained/updated.***
+***A base of architectural templates and blueprints, these repositories reflect an intention for high-scale automation (Agentic AI), core infrastructure (Energy, Web Protocols, Sustainability, Climate, Humanitarian), and innovative tech projects, to be optimized for efficiency, governed, correctly documented and implemented, and aligned with planetary sustainability goals and human values. Repos marked DEPRECATED or archived are not actively maintained/updated, but some still run live demos and code is frozen.***
