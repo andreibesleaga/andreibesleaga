@@ -3,6 +3,7 @@
 - A Software Engineer, Systems Architect, Inventor, Author, specializing in Web, AI, Systems - Product & Business Solutions.
 - Focus: Open-source, Innovation, GreenTech, Healthcare, Automations, Telecom, Developers, Humanitarian, Research.
 - Technical: Web, Distributed (monoliths, microservices, Node.js/PHP/SQL/NoSQL, etc.), API/SDK/Protocols, Agentic AI.
+- Website: [andreibesleaga.com](https://andreibesleaga.com)
 
 ***
 
@@ -21,7 +22,7 @@
 - **[ghiseu-ai](https://github.com/andreibesleaga/ghiseu-ai) (archived)** - **AI Trainable Chatbot** (GENIE.AI platform backend/UI system, localized & optimized for development on limited consumer hardware, RAG, using OPEA, ArangoDB, vLLM, OpenGovernment)
 - **[awesome-agentic-ai-js](https://github.com/andreibesleaga/awesome-agentic-ai-js)** - **Awesome Agentic AI JS/TS** - Curated list of **Agentic AI** frameworks, libraries, standards, and resources, specifically for **JavaScript/TypeScript** developers
 - **[awesome-ai-php](https://github.com/andreibesleaga/awesome-ai-php)** - **Awesome AI & Agentic AI with PHP** - Curated list of libraries, SDKs, frameworks, software for Artificial Intelligence, LLMs, Machine Learning, Agentic AI, and resources, specifically for **PHP** developers
-- **[Agentic AI Architectures](https://github.com/andreibesleaga/agentic-ai-architectures)** - **"Agentic AI Architectures" Book Companion Projects** - Multiple TypeScript/Node.js agentic AI software projects for the [Wiley Book, by Andrei N Besleaga, 2026](https://agenticaiarchitectures.com) (and experimental repos for [Python](https://github.com/andreibesleaga/agentic-ai-python) and [PHP](https://github.com/andreibesleaga/agentic-ai-php) translated projects)
+- **[Agentic AI Architectures](https://github.com/andreibesleaga/agentic-ai-architectures)** - **"Agentic AI Architectures" Book Companion Projects** - Multiple TypeScript/Node.js agentic AI software projects for the [Wiley Book, by Andrei N. Besleaga, 2026](https://agenticaiarchitectures.com) (and experimental repos for [Python](https://github.com/andreibesleaga/agentic-ai-python) and [PHP](https://github.com/andreibesleaga/agentic-ai-php) translated projects)
 
 ### GreenTech, Sustainability, Climate, Emergency
 - **[rfc-sustainability-wellknown](https://github.com/andreibesleaga/rfc-sustainability-wellknown)** - **IETF `sustainability-data` well-known URI**, Internet Draft Proposal
@@ -32,8 +33,9 @@
 
 ### Systems, Libs, Specs, Tools
 - **[toon-gateway](https://github.com/andreibesleaga/toon-gateway)** (live) - **JSON-TOON Gateway** - sample proxy microservice for **on-the-fly data format transformations**
-- **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - a PHP implementation of the **A2A AI Agent-to-Agent Protocol** (v0.3)
+- **[a2a-php](https://github.com/andreibesleaga/a2a-php)** - a PHP implementation of the **A2A AI Agent2Agent Protocol** (v0.3)
 - **[zFeeder](https://github.com/andreibesleaga/zfeeder)** (live) - the 2004 PHP RSS aggregator with admin, rebuilt for 2026
+- **[AgenticFeeder](https://agenticfeeder.com)** (live) - **Daily AI news** from checked sources, with labelled AI digests
 - **[nestjs-mstv](https://github.com/andreibesleaga/nestjs-mstv) (archived)** - NestJS/Node.js **backend template framework** - multi-protocol and microservice patterns
 - **[cap-gateway](https://github.com/andreibesleaga/cap-gateway) (archived)** - **Common Alert Protocol** automated translations distributed proxy
 - **[NaturalLanguageAPIBackends](https://github.com/andreibesleaga/NaturalLanguageAPIBackends) (archived)** - **AI-powered Natural Language Queries** for SQL, REST APIs, GraphQL
